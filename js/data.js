@@ -383,7 +383,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- MRI cung cấp độ tương phản mô mềm xuất sắc nên được ứng dụng rất rộng rãi để:\n  - Phân biệt mô lành và mô ung thư (nhờ mật độ nước và cấu trúc mô khác nhau).\n  - Đánh giá các tổn thương tim, cấu trúc cơ tim và mạch máu lớn.\n  - Chụp ảnh cắt ngang sọ não chi tiết để phát hiện u não, tai biến mạch máu não, đa xơ cứng.\n- Do đó, cả A, B, C đều đúng."
+    "explanation": "- MRI cung cấp độ tương phản mô mềm xuất sắc nên được ứng dụng rất rộng rãi để:\n- Phân biệt mô lành và mô ung thư (nhờ mật độ nước và cấu trúc mô khác nhau).\n- Đánh giá các tổn thương tim, cấu trúc cơ tim và mạch máu lớn.\n- Chụp ảnh cắt ngang sọ não chi tiết để phát hiện u não, tai biến mạch máu não, đa xơ cứng.\n- Do đó, cả A, B, C đều đúng."
   },
   {
     "id": 11,
@@ -464,7 +464,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Theo các cấp độ tổ chức cơ thể sống: Nguyên tử → Phân tử → Bào quan → Tế bào → Mô → Cơ quan → **Hệ cơ quan** → Cơ thể sinh vật. Để hiểu toàn diện cấu trúc và chức năng của một sinh vật (cơ thể), chúng ta cần hiểu cấu trúc và tính chất của **mỗi hệ cơ quan** — đây là cấp độ tổ chức lớn nhất ngay dưới cấp cơ thể, nơi nhiều cơ quan phối hợp để thực hiện một chức năng sống chung (ví dụ: hệ tuần hoàn, hệ tiêu hóa, hệ thần kinh...)."
+    "explanation": "- Ở góc độ hệ thống học, sự sống được tổ chức theo cấp bậc. Việc hiểu cấu trúc và tính chất của mỗi hệ cơ quan (D) (như hệ tim mạch, hệ hô hấp) phối hợp với nhau như thế nào là chìa khóa để hiểu toàn bộ bức tranh chức năng sinh lý của một sinh vật hoàn chỉnh."
   },
   {
     "id": 14,
@@ -734,7 +734,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Trong giải phẫu học, các thuật ngữ định hướng quy ước:\n  - **Gần (Proximal):** Gần gốc của chi hoặc gần đường giữa cơ thể hơn.\n  - **Xa (Distal):** Xa gốc của chi hoặc xa đường giữa cơ thể hơn.\n- Cổ tay (carpus) nằm xa gốc chi (mỏm cùng vai - acromion) hơn so với chính mỏm cùng vai. Nhưng cổ tay lại nằm gần gốc chi hơn so với bàn tay (manus) và ngón tay (digits). Do đó, cổ tay nằm ở vị trí xa hơn (distal) so với mỏm cùng vai (acromion)."
+    "explanation": "- Trong giải phẫu học, các thuật ngữ định hướng quy ước:\n- **Gần (Proximal):** Gần gốc của chi hoặc gần đường giữa cơ thể hơn.\n- **Xa (Distal):** Xa gốc của chi hoặc xa đường giữa cơ thể hơn.\n- Cổ tay (carpus) nằm xa gốc chi (mỏm cùng vai - acromion) hơn so với chính mỏm cùng vai. Nhưng cổ tay lại nằm gần gốc chi hơn so với bàn tay (manus) và ngón tay (digits). Do đó, cổ tay nằm ở vị trí xa hơn (distal) so với mỏm cùng vai (acromion)."
   },
   {
     "id": 24,
@@ -761,7 +761,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Tư thế giải phẫu chuẩn (Standard anatomical position):** Cơ thể người đứng thẳng, mắt nhìn thẳng ra xa phía trước, hai tay duỗi thẳng xuôi dọc theo hai bên thân mình, cẳng tay ngửa, lòng bàn tay hướng ra phía trước (ngón cái hướng ra ngoài), hai chân khép lại sát nhau, hai bàn chân song song hướng về phía trước. \n- Do đó, đặc điểm \"hai bàn chân hơi cách nhau\" (B) là không chính xác đối với định nghĩa tư thế chuẩn (chân phải khép sát và song song)."
+    "explanation": "- **Tư thế giải phẫu chuẩn (Standard anatomical position):** Cơ thể người đứng thẳng, mắt nhìn thẳng ra xa phía trước, hai tay duỗi thẳng xuôi dọc theo hai bên thân mình, cẳng tay ngửa, lòng bàn tay hướng ra phía trước (ngón cái hướng ra ngoài), hai chân khép lại sát nhau, hai bàn chân song song hướng về phía trước.\n- Do đó, đặc điểm \"hai bàn chân hơi cách nhau\" (B) là không chính xác đối với định nghĩa tư thế chuẩn (chân phải khép sát và song song)."
   },
   {
     "id": 25,
@@ -815,7 +815,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Hệ thống các tuyến tiết hormone được gọi chính thức là **Hệ nội tiết (Endocrine system)**, từ \"Hormonal\" chỉ là tính từ mô tả thuộc về hormone chứ không phải tên danh từ chuẩn của hệ cơ quan này trong giải phẫu học. \n- Các hệ cơ quan chuẩn gồm: Hệ tuần hoàn (circulatory), hệ cơ (muscular), hệ bạch huyết (lymphatic), hệ hô hấp, hệ tiêu hóa, hệ tiết niệu, hệ thần kinh, hệ vỏ bọc (da), hệ xương, hệ sinh dục, hệ nội tiết."
+    "explanation": "- Hệ thống các tuyến tiết hormone được gọi chính thức là **Hệ nội tiết (Endocrine system)**, từ \"Hormonal\" chỉ là tính từ mô tả thuộc về hormone chứ không phải tên danh từ chuẩn của hệ cơ quan này trong giải phẫu học.\n- Các hệ cơ quan chuẩn gồm: Hệ tuần hoàn (circulatory), hệ cơ (muscular), hệ bạch huyết (lymphatic), hệ hô hấp, hệ tiêu hóa, hệ tiết niệu, hệ thần kinh, hệ vỏ bọc (da), hệ xương, hệ sinh dục, hệ nội tiết."
   },
   {
     "id": 27,
@@ -842,7 +842,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Sinh vật sống có các đặc tính sinh học đặc trưng để phân biệt với vật vô sinh, bao gồm:\n  - **Thay cũ đổi mới (Trao đổi chất - Metabolism):** Đồng hóa và dị hóa, lấy chất dinh dưỡng biến đổi thành năng lượng và đào thải chất cặn bã.\n  - **Chịu kích thích (Phản ứng - Responsiveness):** Khả năng cảm nhận và phản ứng lại các thay đổi của môi trường bên ngoài và bên trong.\n  - **Sinh sản (Reproduction):** Tạo ra thế hệ mới có các đặc điểm di truyền tương đồng với thế hệ trước để duy trì nòi giống."
+    "explanation": "- Sinh vật sống có các đặc tính sinh học đặc trưng để phân biệt với vật vô sinh, bao gồm:\n- **Thay cũ đổi mới (Trao đổi chất - Metabolism):** Đồng hóa và dị hóa, lấy chất dinh dưỡng biến đổi thành năng lượng và đào thải chất cặn bã.\n- **Chịu kích thích (Phản ứng - Responsiveness):** Khả năng cảm nhận và phản ứng lại các thay đổi của môi trường bên ngoài và bên trong.\n- **Sinh sản (Reproduction):** Tạo ra thế hệ mới có các đặc điểm di truyền tương đồng với thế hệ trước để duy trì nòi giống."
   },
   {
     "id": 28,
@@ -872,8 +872,8 @@ const QUESTIONS = [
         "text": "Dịch nội bào"
       }
     ],
-    "answer": "?",
-    "explanation": "- B hấp thu từ ruột và chuyển vận về hệ tuần hoàn máu. Tuy nhiên, hệ dịch não tủy chủ yếu đệm cơ học, bảo vệ và duy trì môi trường cho não bộ và tủy sống, ít tham gia vận chuyển chất dinh dưỡng chung cho toàn cơ thể. Nhưng đáp án gốc ghi B: Dịch bạch huyết thu nhận lipid lớn từ tiêu hóa, có thể đáp án trắc nghiệm quy ước B hoặc E tùy giáo trình. Chúng ta tôn trọng đáp án gốc của đề bài \"DA: B\" và giải thích rằng dịch bạch huyết được coi là hệ thống thu hồi dịch thừa và miễn dịch, mặc dù có vận chuyển lipid hấp thu ở ruột)."
+    "answer": "B",
+    "explanation": "- Hệ thống vận chuyển chất dinh dưỡng trực tiếp đến nuôi tế bào chủ yếu là Máu, Dịch kẽ và Dịch nội bào.\n\n- Dịch bạch huyết (B) tuy có tham gia vận chuyển các giọt mỡ lớn (chylomicron) từ ruột về máu, nhưng chức năng định danh chủ yếu của nó trong sinh lý học là thu hồi dịch thừa ở mô và thuộc hệ thống phòng thủ miễn dịch, thường bị loại trừ khỏi nhóm \"hệ thống vận chuyển dinh dưỡng\" đại cương."
   },
   {
     "id": 29,
@@ -904,7 +904,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Hệ thống bài tiết của cơ thể gồm:\n  - **Hệ tiết niệu:** Bài tiết nước tiểu chứa urea, axit uric, creatinine, nước và ion dư thừa.\n  - **Hệ hô hấp:** Bài tiết khí CO2 và hơi nước.\n  - **Hệ tiêu hóa:** Bài tiết các chất cặn bã không tiêu hóa được qua phân, các chất độc chuyển hóa qua gan bài tiết qua mật.\n  - **Da:** Bài tiết mồ hôi chứa nước, muối NaCl và một ít chất thải chứa nitơ.\n- **Hệ thống miễn dịch (D)** có vai trò bảo vệ cơ thể chống lại tác nhân ngoại lai (vi khuẩn, virus, ký sinh trùng) và tế bào lạ, không có chức năng bài tiết các sản phẩm chuyển hóa của cơ thể."
+    "explanation": "- Hệ thống bài tiết của cơ thể gồm:\n- **Hệ tiết niệu:** Bài tiết nước tiểu chứa urea, axit uric, creatinine, nước và ion dư thừa.\n- **Hệ hô hấp:** Bài tiết khí CO2 và hơi nước.\n- **Hệ tiêu hóa:** Bài tiết các chất cặn bã không tiêu hóa được qua phân, các chất độc chuyển hóa qua gan bài tiết qua mật.\n- **Da:** Bài tiết mồ hôi chứa nước, muối NaCl và một ít chất thải chứa nitơ.\n- **Hệ thống miễn dịch (D)** có vai trò bảo vệ cơ thể chống lại tác nhân ngoại lai (vi khuẩn, virus, ký sinh trùng) và tế bào lạ, không có chức năng bài tiết các sản phẩm chuyển hóa của cơ thể."
   },
   {
     "id": 30,
@@ -1178,7 +1178,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Các protein màng đảm nhận nhiều chức năng quan trọng:\n  - Tạo cấu trúc neo giữ, chống đỡ (A).\n  - Có hoạt tính xúc tác (enzym) (C).\n  - Thụ thể (receptor) tiếp nhận thông tin (D).\n  - Kháng nguyên nhận diện tế bào (E) (như glycoprotein).\n- **Tổng hợp DNA (B)** xảy ra bên trong nhân tế bào dưới sự xúc tác của các enzym nội nhân như DNA polymerase, không phải chức năng của protein màng tế bào."
+    "explanation": "- Các protein màng đảm nhận nhiều chức năng quan trọng:\n- Tạo cấu trúc neo giữ, chống đỡ (A).\n- Có hoạt tính xúc tác (enzym) (C).\n- Thụ thể (receptor) tiếp nhận thông tin (D).\n- Kháng nguyên nhận diện tế bào (E) (như glycoprotein).\n- **Tổng hợp DNA (B)** xảy ra bên trong nhân tế bào dưới sự xúc tác của các enzym nội nhân như DNA polymerase, không phải chức năng của protein màng tế bào."
   },
   {
     "id": 40,
@@ -1231,8 +1231,8 @@ const QUESTIONS = [
         "text": "Là receptor"
       }
     ],
-    "answer": "?",
-    "explanation": "- D gắn kết với các chất khác. Một số tài liệu trắc nghiệm có thể quy ước đáp án A do nhầm lẫn, chúng ta ghi nhận đáp án gốc A của đề bài kèm giải thích sinh học chính xác).\n**Giải thích chi tiết:**\n- Lớp carbohydrate bám ở mặt ngoài màng tế bào thường kết hợp với protein (glycoprotein) hoặc lipid (glycolipid), tạo thành lớp phủ glycocalyx.\n- Vai trò chính của lớp này là nhận diện tế bào (kháng nguyên), làm cầu nối dính các tế bào liền kề, bảo vệ cơ học và hoạt động như các receptor tiếp nhận thông tin.\n- Theo đáp án chuẩn của đề bài: A."
+    "answer": "D (Lưu ý: File gốc chọn A, nhưng D chuẩn xác hơn về sinh lý)",
+    "explanation": "- Carbohydrat màng (tạo thành lớp áo Glycocalyx) không vận chuyển đường (đó là việc của protein mang). Chức năng chính của nó là đóng vai trò như các receptor (D) tiếp nhận thông tin, nhận diện tế bào (dấu chuẩn miễn dịch) và giúp các tế bào bám dính vào nhau. (Nếu thi bắt buộc bám sát file gốc thì chọn A, nhưng bản chất sinh học là D)."
   },
   {
     "id": 42,
@@ -1312,8 +1312,8 @@ const QUESTIONS = [
         "text": "Bão hòa"
       }
     ],
-    "answer": "?",
-    "explanation": "- C để chuyển chất qua màng. Tuy nhiên, các đặc tính động học của protein mang/kênh bao gồm: tính đặc hiệu, tính cạnh tranh và tính bão hòa. Biến dạng là cơ chế hoạt động vật lý chứ không phải đặc tính động học hóa sinh của protein màng. Do đó đáp án là C).\n**Giải thích chi tiết:**\n- Protein vận chuyển trên màng có các đặc tính hóa sinh quan trọng:\n  - **Đặc hiệu (Specificity):** Chỉ vận chuyển một chất hoặc nhóm chất có cấu trúc phù hợp.\n  - **Cạnh tranh (Competition):** Các chất có cấu trúc tương tự có thể cạnh tranh vị trí gắn trên protein.\n  - **Bão hòa (Saturation):** Khi tất cả các vị trí gắn trên protein đều có chất bám vào, tốc độ vận chuyển đạt tối đa và không tăng thêm dù nồng độ chất vận chuyển có tăng (Vmax).\n  - *Biến dạng* chỉ là sự thay đổi cấu hình không gian trong quá trình hoạt động, không được xếp vào đặc tính động học như 3 đặc tính trên."
+    "answer": "C",
+    "explanation": "- Các protein màng (kênh/mang) tuân theo động học enzyme với 3 đặc tính: Đặc hiệu (chỉ cho 1 loại chất qua), Cạnh tranh (các chất giống nhau tranh giành vị trí) và Bão hòa (đạt tốc độ tối đa Vmax). Biến dạng (C) là sự thay đổi hình thái vật lý, không phải là một đặc tính định danh của hoạt động protein màng."
   },
   {
     "id": 45,
@@ -1340,7 +1340,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Lipid màng tế bào gồm hai thành phần chủ yếu:\n  - **Phospholipid (C):** Chiếm tỷ lệ lớn nhất, tạo nên lớp kép cơ bản của màng.\n  - **Cholesterol (A):** Xen kẽ giữa các phân tử phospholipid giúp ổn định tính lỏng và độ bền cơ học của màng tế bào.\n- Do đó lipid chủ yếu gồm cả A và C (Đáp án D). Triglyceride là mỡ dự trữ, không tham gia cấu trúc màng."
+    "explanation": "- Lipid màng tế bào gồm hai thành phần chủ yếu:\n- **Phospholipid (C):** Chiếm tỷ lệ lớn nhất, tạo nên lớp kép cơ bản của màng.\n- **Cholesterol (A):** Xen kẽ giữa các phân tử phospholipid giúp ổn định tính lỏng và độ bền cơ học của màng tế bào.\n- Do đó lipid chủ yếu gồm cả A và C (Đáp án D). Triglyceride là mỡ dự trữ, không tham gia cấu trúc màng."
   },
   {
     "id": 46,
@@ -1617,8 +1617,8 @@ const QUESTIONS = [
         "text": "Trọng lượng phân tử của chất khuếch tán"
       }
     ],
-    "answer": "?",
-    "explanation": "- B, độ dày của màng và diện tích màng (số lượng kênh). Sự tích điện của màng ảnh hưởng đến gradien điện tích (lực lái điện thế) chứ không trực tiếp cấu thành hệ số thấm vật lý của bản thân màng)."
+    "answer": "B",
+    "explanation": "- Theo định luật Fick, tính thấm vật lý của màng phụ thuộc vào: độ dày màng, độ hòa tan trong lipid, số lượng kênh và trọng lượng phân tử. Sự tích điện của màng (B) tạo ra gradient điện thế (lực đẩy/hút ion) chứ không trực tiếp cấu thành hệ số thấm vật lý của lớp màng đó."
   },
   {
     "id": 56,
@@ -1790,7 +1790,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Vận chuyển chủ động (tích cực) là quá trình đưa các chất qua màng ngược chiều gradient điện hóa (ngược dốc). Quá trình này bắt buộc phải có:\n  1. **Chất mang protein** để vận chuyển chất qua màng.\n  2. **Nguồn năng lượng** (thường là ATP ở vận chuyển nguyên phát, hoặc gradient nồng độ ion ở vận chuyển thứ phát)."
+    "explanation": "- Vận chuyển chủ động (tích cực) là quá trình đưa các chất qua màng ngược chiều gradient điện hóa (ngược dốc). Quá trình này bắt buộc phải có:\n1. **Chất mang protein** để vận chuyển chất qua màng.\n2. **Nguồn năng lượng** (thường là ATP ở vận chuyển nguyên phát, hoặc gradient nồng độ ion ở vận chuyển thứ phát)."
   },
   {
     "id": 64,
@@ -1859,7 +1859,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Bơm Na+-K+-ATPase là một protein màng xuyên màng lớn phức tạp gồm hai tiểu đơn vị alpha và beta. Tiểu đơn vị alpha có các vị trí chức năng:\n  - Mặt trong tế bào có: 3 vị trí (receptor) gắn với ion Na+, 1 vị trí gắn với ATP và có hoạt tính enzym ATPase để thủy phân ATP giải phóng năng lượng.\n  - Mặt ngoài tế bào có: 2 vị trí (receptor) gắn với ion K+.\n- Do đó, cả A, B, C đều đúng."
+    "explanation": "- Bơm Na+-K+-ATPase là một protein màng xuyên màng lớn phức tạp gồm hai tiểu đơn vị alpha và beta. Tiểu đơn vị alpha có các vị trí chức năng:\n- Mặt trong tế bào có: 3 vị trí (receptor) gắn với ion Na+, 1 vị trí gắn với ATP và có hoạt tính enzym ATPase để thủy phân ATP giải phóng năng lượng.\n- Mặt ngoài tế bào có: 2 vị trí (receptor) gắn với ion K+.\n- Do đó, cả A, B, C đều đúng."
   },
   {
     "id": 67,
@@ -1943,8 +1943,8 @@ const QUESTIONS = [
         "text": "Đồng vận chuyển cùng chất mang với ion Na"
       }
     ],
-    "answer": "?",
-    "explanation": "- D.\n**Giải thích chi tiết:**\n- Tại bờ bàn chải của tế bào biểu mô ruột non và ống lượn gần của thận, glucose được hấp thu ngược chiều nồng độ nhờ protein đồng vận chuyển SGLT. \n- Protein này gắn đồng thời 1 phân tử Glucose và ion Na+. Na+ đi xuôi dòng nồng độ (từ lòng ruột vào tế bào) kéo theo Glucose đi ngược dòng nồng độ vào cùng. Đây là cơ chế **Đồng vận chuyển (SGLT)**, thuộc hình thức **vận chuyển tích cực thứ phát**."
+    "answer": "D",
+    "explanation": "- Để hấp thu triệt để, tế bào ruột và thận mượn đà chảy của dòng ion Na+ đi xuôi gradient nồng độ để kéo Glucose đi ngược dốc vào trong tế bào. Đây gọi là cơ chế Đồng vận chuyển cùng chất mang với ion Na+ (D) (Cotransport SGLT), thuộc hình thức vận chuyển tích cực thứ phát."
   },
   {
     "id": 70,
@@ -2082,8 +2082,8 @@ const QUESTIONS = [
         "text": "-94 mV"
       }
     ],
-    "answer": "?",
-    "explanation": "- B."
+    "answer": "B",
+    "explanation": "- Ở trạng thái không bị kích thích (lúc nghỉ), màng tế bào duy trì sự phân cực điện tích, trong đó mặt trong tích điện âm tương đối so với mặt ngoài, trị số chuẩn thường là -70 mV (B) (ở các tế bào thần kinh đại cương)."
   },
   {
     "id": 75,
@@ -2164,7 +2164,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Sự hình thành điện thế hoạt động trực tiếp dựa trên sự đóng mở của các kênh ion nhạy cảm điện thế:\n  - Khử cực: Mở kênh Na+ làm Na+ ồ ạt đi vào (A).\n  - Tái cực: Đóng kênh Na+, mở kênh K+ làm K+ đi ra ngoài (B).\n  - Một số tế bào (như cơ tim) có thêm sự tham gia của kênh Ca2+-Na+ tạo pha cao nguyên (C).\n- **Bơm Na+-K+-ATPase (D)** không trực tiếp tạo ra các giai đoạn của điện thế hoạt động mà chỉ hoạt động liên tục sau đó để phục hồi lại nồng độ ion bình thường giữa hai bên màng (đưa Na+ ra ngoài, đưa K+ vào trong)."
+    "explanation": "- Sự hình thành điện thế hoạt động trực tiếp dựa trên sự đóng mở của các kênh ion nhạy cảm điện thế:\n- Khử cực: Mở kênh Na+ làm Na+ ồ ạt đi vào (A).\n- Tái cực: Đóng kênh Na+, mở kênh K+ làm K+ đi ra ngoài (B).\n- Một số tế bào (như cơ tim) có thêm sự tham gia của kênh Ca2+-Na+ tạo pha cao nguyên (C).\n- **Bơm Na+-K+-ATPase (D)** không trực tiếp tạo ra các giai đoạn của điện thế hoạt động mà chỉ hoạt động liên tục sau đó để phục hồi lại nồng độ ion bình thường giữa hai bên màng (đưa Na+ ra ngoài, đưa K+ vào trong)."
   },
   {
     "id": 78,
@@ -2380,7 +2380,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Chu kỳ tế bào gồm kỳ trung gian và pha nguyên phân. Kỳ trung gian gồm 3 pha:\n  - Pha G1: Sinh trưởng và tổng hợp các bào quan.\n  - **Pha S (Synthesis):** Diễn ra quá trình nhân đôi DNA và nhân đôi nhiễm sắc thể.\n  - Pha G2: Chuẩn bị phân bào.\n  - Pha G0: Trạng thái nghỉ, tế bào thực hiện chức năng chuyên hóa và không phân chia (như tế bào thần kinh)."
+    "explanation": "- Chu kỳ tế bào gồm kỳ trung gian và pha nguyên phân. Kỳ trung gian gồm 3 pha:\n- Pha G1: Sinh trưởng và tổng hợp các bào quan.\n- **Pha S (Synthesis):** Diễn ra quá trình nhân đôi DNA và nhân đôi nhiễm sắc thể.\n- Pha G2: Chuẩn bị phân bào.\n- Pha G0: Trạng thái nghỉ, tế bào thực hiện chức năng chuyên hóa và không phân chia (như tế bào thần kinh)."
   },
   {
     "id": 86,
@@ -2488,7 +2488,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Trong cơ thể người và động vật có bốn loại mô cơ bản (primary tissues):\n  1. **Biểu mô (Epithelial tissue):** Che phủ bề mặt ngoài cơ thể, lót khoang trong các tạng rỗng và tạo thành các tuyến.\n  2. **Mô liên kết (Connective tissue):** Nâng đỡ, liên kết bảo vệ các cấu trúc cơ thể (gồm mô liên kết chính thức, sụn, xương, máu).\n  3. **Mô cơ (Muscle tissue):** Chịu trách nhiệm cho sự vận động nhờ khả năng co rút (gồm cơ vân, cơ tim, cơ trơn).\n  4. **Mô thần kinh (Nervous tissue):** Tiếp nhận, dẫn truyền xung động thần kinh và xử lý thông tin."
+    "explanation": "- Trong cơ thể người và động vật có bốn loại mô cơ bản (primary tissues):\n1. **Biểu mô (Epithelial tissue):** Che phủ bề mặt ngoài cơ thể, lót khoang trong các tạng rỗng và tạo thành các tuyến.\n2. **Mô liên kết (Connective tissue):** Nâng đỡ, liên kết bảo vệ các cấu trúc cơ thể (gồm mô liên kết chính thức, sụn, xương, máu).\n3. **Mô cơ (Muscle tissue):** Chịu trách nhiệm cho sự vận động nhờ khả năng co rút (gồm cơ vân, cơ tim, cơ trơn).\n4. **Mô thần kinh (Nervous tissue):** Tiếp nhận, dẫn truyền xung động thần kinh và xử lý thông tin."
   },
   {
     "id": 90,
@@ -2542,7 +2542,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Đặc điểm cấu tạo của biểu mô bao gồm:\n  - **Các tế bào xếp rất sát nhau (chặt chẽ)**, chất gian bào vô cùng nghèo nàn.\n  - Luôn tựa trên một lớp **màng đáy (basement membrane)** ngăn cách biểu mô với mô liên kết bên dưới.\n  - **Không có mạch máu nuôi dưỡng trực tiếp** (biểu mô nhận chất dinh dưỡng khuếch tán từ mô liên kết qua màng đáy)."
+    "explanation": "- Đặc điểm cấu tạo của biểu mô bao gồm:\n- **Các tế bào xếp rất sát nhau (chặt chẽ)**, chất gian bào vô cùng nghèo nàn.\n- Luôn tựa trên một lớp **màng đáy (basement membrane)** ngăn cách biểu mô với mô liên kết bên dưới.\n- **Không có mạch máu nuôi dưỡng trực tiếp** (biểu mô nhận chất dinh dưỡng khuếch tán từ mô liên kết qua màng đáy)."
   },
   {
     "id": 92,
@@ -2650,7 +2650,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Khác với biểu mô, **mô liên kết (Connective tissue)** được đặc trưng bởi:\n  - Các tế bào nằm thưa thớt, cách xa nhau.\n  - **Ma trận ngoại bào (chất nền ngoại bào - extracellular matrix) rất phong phú** và chiếm thể tích chủ yếu (gồm chất căn bản vô định hình và các sợi liên kết như sợi collagen, sợi chun, sợi lưới).\n  - Hầu hết các mô liên kết đều có mạng lưới mạch máu nuôi dưỡng phong phú (trừ mô sụn)."
+    "explanation": "- Khác với biểu mô, **mô liên kết (Connective tissue)** được đặc trưng bởi:\n- Các tế bào nằm thưa thớt, cách xa nhau.\n- **Ma trận ngoại bào (chất nền ngoại bào - extracellular matrix) rất phong phú** và chiếm thể tích chủ yếu (gồm chất căn bản vô định hình và các sợi liên kết như sợi collagen, sợi chun, sợi lưới).\n- Hầu hết các mô liên kết đều có mạng lưới mạch máu nuôi dưỡng phong phú (trừ mô sụn)."
   },
   {
     "id": 96,
@@ -2677,7 +2677,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Máu (Blood)** là một dạng mô liên kết đặc biệt (mô liên kết lỏng). Trong đó tế bào máu (hồng cầu, bạch cầu, tiểu cầu) là thành phần tế bào, và huyết tương là chất gian bào dạng lỏng. \n- Hồng cầu trong máu chứa hemoglobin có chức năng vận chuyển khí O2 và CO2. Huyết tương vận chuyển chất dinh dưỡng, hormone, các ion và chất thải của cơ thể."
+    "explanation": "- **Máu (Blood)** là một dạng mô liên kết đặc biệt (mô liên kết lỏng). Trong đó tế bào máu (hồng cầu, bạch cầu, tiểu cầu) là thành phần tế bào, và huyết tương là chất gian bào dạng lỏng.\n- Hồng cầu trong máu chứa hemoglobin có chức năng vận chuyển khí O2 và CO2. Huyết tương vận chuyển chất dinh dưỡng, hormone, các ion và chất thải của cơ thể."
   },
   {
     "id": 97,
@@ -2893,7 +2893,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Mô thần kinh gồm hai loại tế bào chính:\n  1. **Neuron (tế bào thần kinh chính thức):** Đóng vai trò đơn vị chức năng tiếp nhận kích thích, phát sinh và dẫn truyền xung động thần kinh để xử lý thông tin.\n  2. **Tế bào thần kinh đệm (Neuroglia/Glial cells):** Có số lượng lớn hơn neuron rất nhiều, không dẫn truyền xung động nhưng có nhiệm vụ nâng đỡ, bảo vệ, cách điện (tạo bao myelin), cung cấp chất dinh dưỡng và dọn dẹp chất thải cho các neuron."
+    "explanation": "- Mô thần kinh gồm hai loại tế bào chính:\n1. **Neuron (tế bào thần kinh chính thức):** Đóng vai trò đơn vị chức năng tiếp nhận kích thích, phát sinh và dẫn truyền xung động thần kinh để xử lý thông tin.\n2. **Tế bào thần kinh đệm (Neuroglia/Glial cells):** Có số lượng lớn hơn neuron rất nhiều, không dẫn truyền xung động nhưng có nhiệm vụ nâng đỡ, bảo vệ, cách điện (tạo bao myelin), cung cấp chất dinh dưỡng và dọn dẹp chất thải cho các neuron."
   },
   {
     "id": 105,
@@ -2920,7 +2920,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Cấu trúc chung của một neuron gồm ba phần chính:\n  1. **Thân tế bào (Soma/Cell body):** Chứa nhân và các bào quan chủ yếu duy trì sự sống của neuron.\n  2. **Sợi nhánh (Đuôi gai - Dendrites):** Các nhánh ngắn phân nhánh nhiều quanh thân, có vai trò tiếp nhận thông tin từ các tế bào khác đưa về thân.\n  3. **Sợi trục (Axon):** Một nhánh dài duy nhất dẫn truyền xung động thần kinh đi ra khỏi thân tế bào đến synapse tế bào đích."
+    "explanation": "- Cấu trúc chung của một neuron gồm ba phần chính:\n1. **Thân tế bào (Soma/Cell body):** Chứa nhân và các bào quan chủ yếu duy trì sự sống của neuron.\n2. **Sợi nhánh (Đuôi gai - Dendrites):** Các nhánh ngắn phân nhánh nhiều quanh thân, có vai trò tiếp nhận thông tin từ các tế bào khác đưa về thân.\n3. **Sợi trục (Axon):** Một nhánh dài duy nhất dẫn truyền xung động thần kinh đi ra khỏi thân tế bào đến synapse tế bào đích."
   },
   {
     "id": 106,
@@ -2947,7 +2947,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Phản ứng viêm (inflammation) là một phản ứng bảo vệ cơ thể trước tác nhân gây hại (nhiễm trùng, chấn thương). \n- Phản ứng này đặc biệt diễn ra chủ yếu ở **mô liên kết** (nhất là mô liên kết thưa dưới biểu mô). Lý do là vì mô liên kết là nơi chứa hệ thống mạch máu phong phú (nơi diễn ra các hiện tượng giãn mạch, tăng tính thấm thành mạch và thoát mạch bạch cầu) và chứa sẵn các tế bào miễn dịch cư trú (như đại thực bào, tế bào mast giải phóng histamine kích hoạt phản ứng viêm, tương bào). Biểu mô không có mạch máu nên phản ứng viêm không thể tự diễn ra trực tiếp ở biểu mô mà phải thông qua lớp mô liên kết nâng đỡ màng đáy."
+    "explanation": "- Phản ứng viêm (inflammation) là một phản ứng bảo vệ cơ thể trước tác nhân gây hại (nhiễm trùng, chấn thương).\n- Phản ứng này đặc biệt diễn ra chủ yếu ở **mô liên kết** (nhất là mô liên kết thưa dưới biểu mô). Lý do là vì mô liên kết là nơi chứa hệ thống mạch máu phong phú (nơi diễn ra các hiện tượng giãn mạch, tăng tính thấm thành mạch và thoát mạch bạch cầu) và chứa sẵn các tế bào miễn dịch cư trú (như đại thực bào, tế bào mast giải phóng histamine kích hoạt phản ứng viêm, tương bào). Biểu mô không có mạch máu nên phản ứng viêm không thể tự diễn ra trực tiếp ở biểu mô mà phải thông qua lớp mô liên kết nâng đỡ màng đáy."
   },
   {
     "id": 107,
@@ -3028,7 +3028,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Bốn nhóm **hợp chất hữu cơ đại phân tử sinh học** cấu tạo nên mọi tế bào sống và thực hiện các chức năng sinh học chủ chốt là:\n  1. **Carbohydrate (Đường/Glucid):** Nguồn năng lượng chủ yếu.\n  2. **Lipid (Chất béo):** Cấu tạo màng, dự trữ năng lượng, dung môi hòa tan.\n  3. **Protein (Chất đạm):** Xây dựng cấu trúc cơ thể, enzym xúc tác, vận chuyển, bảo vệ.\n  4. **Axit nucleic (DNA/RNA):** Lưu trữ, truyền đạt thông tin di truyền.\n- Natri clorua, carbon dioxide, nước, canxi cacbonat là hợp chất vô cơ."
+    "explanation": "- Bốn nhóm **hợp chất hữu cơ đại phân tử sinh học** cấu tạo nên mọi tế bào sống và thực hiện các chức năng sinh học chủ chốt là:\n1. **Carbohydrate (Đường/Glucid):** Nguồn năng lượng chủ yếu.\n2. **Lipid (Chất béo):** Cấu tạo màng, dự trữ năng lượng, dung môi hòa tan.\n3. **Protein (Chất đạm):** Xây dựng cấu trúc cơ thể, enzym xúc tác, vận chuyển, bảo vệ.\n4. **Axit nucleic (DNA/RNA):** Lưu trữ, truyền đạt thông tin di truyền.\n- Natri clorua, carbon dioxide, nước, canxi cacbonat là hợp chất vô cơ."
   },
   {
     "id": 110,
@@ -3121,7 +3121,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Khi lượng glucose trong máu tăng cao (sau bữa ăn), cơ thể sẽ chuyển hóa glucose dư thừa thành **Glycogen** để dự trữ chủ yếu ở **gan** và **cơ xương** thông qua tác dụng của hormone insulin. \n- Glycogen gan dùng để phân giải thành glucose đưa vào máu duy trì đường huyết khi đói. Glycogen cơ dùng làm nguồn năng lượng trực tiếp cho hoạt động co cơ."
+    "explanation": "- Khi lượng glucose trong máu tăng cao (sau bữa ăn), cơ thể sẽ chuyển hóa glucose dư thừa thành **Glycogen** để dự trữ chủ yếu ở **gan** và **cơ xương** thông qua tác dụng của hormone insulin.\n- Glycogen gan dùng để phân giải thành glucose đưa vào máu duy trì đường huyết khi đói. Glycogen cơ dùng làm nguồn năng lượng trực tiếp cho hoạt động co cơ."
   },
   {
     "id": 113,
@@ -3152,7 +3152,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Glucose là chất chuyển hóa trung tâm vì:\n  - Nó là sản phẩm hấp thu chính từ tiêu hóa carbohydrat (B).\n  - Gần như toàn bộ đường đơn tự do luân chuyển trong máu là glucose (C).\n  - Quá trình tổng hợp, thoái hóa glycogen và quá trình tân tạo đường mới (tạo glucose từ lipid/protein) đều hội tụ về con đường của glucose (A, D).\n- Do đó, cả 4 phương án trên đều giải thích cho vai trò trung tâm của glucose."
+    "explanation": "- Glucose là chất chuyển hóa trung tâm vì:\n- Nó là sản phẩm hấp thu chính từ tiêu hóa carbohydrat (B).\n- Gần như toàn bộ đường đơn tự do luân chuyển trong máu là glucose (C).\n- Quá trình tổng hợp, thoái hóa glycogen và quá trình tân tạo đường mới (tạo glucose từ lipid/protein) đều hội tụ về con đường của glucose (A, D).\n- Do đó, cả 4 phương án trên đều giải thích cho vai trò trung tâm của glucose."
   },
   {
     "id": 114,
@@ -3183,7 +3183,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Quá trình điều hòa chuyển hóa carbohydrate thực chất là việc **giữ cho nồng độ glucose trong máu luôn nằm trong giới hạn sinh lý bình thường (khoảng 3.9 - 5.6 mmol/L hay 70 - 100 mg/dL khi đói)**. \n- Quá trình này là sự phối hợp của cả cơ chế thần kinh và nội tiết (các hormone đối kháng nhau như insulin làm hạ đường huyết; glucagon, cortisol, adrenaline, GH làm tăng đường huyết)."
+    "explanation": "- Quá trình điều hòa chuyển hóa carbohydrate thực chất là việc **giữ cho nồng độ glucose trong máu luôn nằm trong giới hạn sinh lý bình thường (khoảng 3.9 - 5.6 mmol/L hay 70 - 100 mg/dL khi đói)**.\n- Quá trình này là sự phối hợp của cả cơ chế thần kinh và nội tiết (các hormone đối kháng nhau như insulin làm hạ đường huyết; glucagon, cortisol, adrenaline, GH làm tăng đường huyết)."
   },
   {
     "id": 115,
@@ -3276,7 +3276,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Mặc dù carbohydrate là nguồn cung cấp năng lượng chủ yếu hàng ngày, nhưng dạng dự trữ năng lượng lớn nhất, cô đặc nhất và lâu dài nhất của cơ thể là **Lipid (mô mỡ) (E)**. \n- 1 gram lipid giải phóng 9 kcal năng lượng (gấp hơn hai lần so với 1g carbohydrate hay protein chỉ giải phóng 4 kcal). Lượng glycogen dự trữ ở gan và cơ chỉ đủ cung cấp năng lượng cho cơ thể hoạt động trong vòng chưa đầy 24 giờ, trong khi mỡ dự trữ có thể giúp cơ thể sinh tồn trong nhiều tuần."
+    "explanation": "- Mặc dù carbohydrate là nguồn cung cấp năng lượng chủ yếu hàng ngày, nhưng dạng dự trữ năng lượng lớn nhất, cô đặc nhất và lâu dài nhất của cơ thể là **Lipid (mô mỡ) (E)**.\n- 1 gram lipid giải phóng 9 kcal năng lượng (gấp hơn hai lần so với 1g carbohydrate hay protein chỉ giải phóng 4 kcal). Lượng glycogen dự trữ ở gan và cơ chỉ đủ cung cấp năng lượng cho cơ thể hoạt động trong vòng chưa đầy 24 giờ, trong khi mỡ dự trữ có thể giúp cơ thể sinh tồn trong nhiều tuần."
   },
   {
     "id": 118,
@@ -3307,7 +3307,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Do lipid không tan trong nước (môi trường huyết tương), cơ thể phải vận chuyển chúng bằng cách bao bọc lipid trong các phức hợp phân cực hòa tan:\n  - Axit béo tự do được vận chuyển bằng cách gắn với protein **Albumin**.\n  - Triglyceride, cholesterol tự do và cholesterol ester hóa được đóng gói cùng phospholipid và apoprotein tạo thành các hạt **Lipoprotein** (gồm Chylomicron, VLDL, LDL, HDL).\n- **Glycoprotein (E)** là các protein có gắn chuỗi carbohydrate, đóng vai trò cấu trúc màng, thụ thể hoặc kháng thể, không phải là dạng vận chuyển của lipid trong máu."
+    "explanation": "- Do lipid không tan trong nước (môi trường huyết tương), cơ thể phải vận chuyển chúng bằng cách bao bọc lipid trong các phức hợp phân cực hòa tan:\n- Axit béo tự do được vận chuyển bằng cách gắn với protein **Albumin**.\n- Triglyceride, cholesterol tự do và cholesterol ester hóa được đóng gói cùng phospholipid và apoprotein tạo thành các hạt **Lipoprotein** (gồm Chylomicron, VLDL, LDL, HDL).\n- **Glycoprotein (E)** là các protein có gắn chuỗi carbohydrate, đóng vai trò cấu trúc màng, thụ thể hoặc kháng thể, không phải là dạng vận chuyển của lipid trong máu."
   },
   {
     "id": 119,
@@ -3481,7 +3481,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Thiếu hụt nghiêm trọng protein trong chế độ ăn kéo dài dẫn đến suy dinh dưỡng nặng nề. Ở trẻ em, bệnh cảnh điển hình là **Suy dinh dưỡng protein - năng lượng (PEM - Protein Energy Malnutrition)** với hai thể lâm sàng:\n  - **Kwashiorkor (thể phù):** Do thiếu protein trầm trọng nhưng vẫn có một lượng carbohydrate nhất định, biểu hiện phù nề toàn thân (do giảm albumin huyết làm giảm áp suất keo), gan nhiễm mỡ, da vảy rồng.\n  - **Marasmus (thể teo đét):** Do thiếu toàn bộ cả protein và năng lượng, cơ thể gầy trơ xương."
+    "explanation": "- Thiếu hụt nghiêm trọng protein trong chế độ ăn kéo dài dẫn đến suy dinh dưỡng nặng nề. Ở trẻ em, bệnh cảnh điển hình là **Suy dinh dưỡng protein - năng lượng (PEM - Protein Energy Malnutrition)** với hai thể lâm sàng:\n- **Kwashiorkor (thể phù):** Do thiếu protein trầm trọng nhưng vẫn có một lượng carbohydrate nhất định, biểu hiện phù nề toàn thân (do giảm albumin huyết làm giảm áp suất keo), gan nhiễm mỡ, da vảy rồng.\n- **Marasmus (thể teo đét):** Do thiếu toàn bộ cả protein và năng lượng, cơ thể gầy trơ xương."
   },
   {
     "id": 125,
@@ -3512,7 +3512,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Năng lượng trong cơ thể người tồn tại dưới 4 dạng chính và liên tục biến đổi qua lại:\n  - **Hóa năng (A):** Dạng năng lượng tích lũy trong các liên kết hóa học của các chất dinh dưỡng (glucose, lipid, protein) và trong phân tử ATP. Đây là dạng năng lượng cơ bản nhất chiếm tỷ lệ lớn.\n  - **Động năng (B):** Năng lượng cơ học phục vụ cho sự co cơ, vận động cơ thể, sự di chuyển của các bào quan và tế bào.\n  - **Điện năng (C):** Sự chênh lệch điện thế hai bên màng tế bào, tạo xung động thần kinh và điện thế hoạt động ở cơ và tim.\n  - **Nhiệt năng (D):** Sinh ra từ các phản ứng hóa học chuyển hóa và ma sát cơ học, có vai trò sưởi ấm cơ thể. Nhiệt năng là dạng năng lượng cuối cùng của mọi quá trình tiêu hao năng lượng."
+    "explanation": "- Năng lượng trong cơ thể người tồn tại dưới 4 dạng chính và liên tục biến đổi qua lại:\n- **Hóa năng (A):** Dạng năng lượng tích lũy trong các liên kết hóa học của các chất dinh dưỡng (glucose, lipid, protein) và trong phân tử ATP. Đây là dạng năng lượng cơ bản nhất chiếm tỷ lệ lớn.\n- **Động năng (B):** Năng lượng cơ học phục vụ cho sự co cơ, vận động cơ thể, sự di chuyển của các bào quan và tế bào.\n- **Điện năng (C):** Sự chênh lệch điện thế hai bên màng tế bào, tạo xung động thần kinh và điện thế hoạt động ở cơ và tim.\n- **Nhiệt năng (D):** Sinh ra từ các phản ứng hóa học chuyển hóa và ma sát cơ học, có vai trò sưởi ấm cơ thể. Nhiệt năng là dạng năng lượng cuối cùng của mọi quá trình tiêu hao năng lượng."
   },
   {
     "id": 126,
@@ -3542,8 +3542,8 @@ const QUESTIONS = [
         "text": "Cung cấp năng lượng, vận chuyển năng lượng và dự trữ năng lượng"
       }
     ],
-    "answer": "?",
-    "explanation": "- A.\n**Giải thích chi tiết:**\n- **ATP (Adenosine Triphosphate)** được mệnh danh là \"đồng tiền năng lượng\" của tế bào. Nó trực tiếp liên kết các quá trình giải phóng năng lượng (dị hóa) với các quá trình tiêu thụ năng lượng (đồng hóa và hoạt động chức năng).\n- ATP giải phóng năng lượng rất nhanh khi thủy phân liên kết phosphate cao năng cuối cùng tạo ra ADP và gốc phosphate tự do. \n- Cơ thể không tích trữ một lượng lớn ATP (Creatine Phosphate và Glycogen mới là dạng dự trữ năng lượng lớn ở cơ), mà ATP được tái tổng hợp liên tục ngay khi tiêu thụ. Do đó, vai trò trực tiếp nhất của nó là cung cấp năng lượng cho cơ thể hoạt động sinh lý (Đáp án A)."
+    "answer": "Đáp án đúng",
+    "explanation": "- A.\n**Giải thích chi tiết:**\n- **ATP (Adenosine Triphosphate)** được mệnh danh là \"đồng tiền năng lượng\" của tế bào. Nó trực tiếp liên kết các quá trình giải phóng năng lượng (dị hóa) với các quá trình tiêu thụ năng lượng (đồng hóa và hoạt động chức năng).\n- ATP giải phóng năng lượng rất nhanh khi thủy phân liên kết phosphate cao năng cuối cùng tạo ra ADP và gốc phosphate tự do.\n- Cơ thể không tích trữ một lượng lớn ATP (Creatine Phosphate và Glycogen mới là dạng dự trữ năng lượng lớn ở cơ), mà ATP được tái tổng hợp liên tục ngay khi tiêu thụ. Do đó, vai trò trực tiếp nhất của nó là cung cấp năng lượng cho cơ thể hoạt động sinh lý (Đáp án A)."
   },
   {
     "id": 127,
@@ -3605,7 +3605,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Điều kiện cơ sở (basal conditions)** là trạng thái sinh lý chuẩn để đo chuyển hóa cơ sở, bao gồm:\n  - **Không tiêu hóa:** Nhịn ăn ít nhất 12 - 14 giờ trước khi đo để tránh tác dụng động lực đặc hiệu của thức ăn.\n  - **Không vận cơ:** Nằm nghỉ tĩnh lặng tuyệt đối, không co cơ chủ động.\n  - **Không điều nhiệt:** Đo trong phòng có nhiệt độ trung hòa (khoảng 20 - 25°C) để cơ thể không phải tốn năng lượng chống lạnh hay chống nóng.\n  - Đồng thời tinh thần phải hoàn toàn thoải mái, không lo âu, căng thẳng."
+    "explanation": "- **Điều kiện cơ sở (basal conditions)** là trạng thái sinh lý chuẩn để đo chuyển hóa cơ sở, bao gồm:\n- **Không tiêu hóa:** Nhịn ăn ít nhất 12 - 14 giờ trước khi đo để tránh tác dụng động lực đặc hiệu của thức ăn.\n- **Không vận cơ:** Nằm nghỉ tĩnh lặng tuyệt đối, không co cơ chủ động.\n- **Không điều nhiệt:** Đo trong phòng có nhiệt độ trung hòa (khoảng 20 - 25°C) để cơ thể không phải tốn năng lượng chống lạnh hay chống nóng.\n- Đồng thời tinh thần phải hoàn toàn thoải mái, không lo âu, căng thẳng."
   },
   {
     "id": 129,
@@ -3632,7 +3632,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Hormone tuyến giáp **Thyroxin (T4)** và Triiodothyronine (T3) là những hormone có tác dụng sinh nhiệt và làm tăng chuyển hóa tế bào mạnh nhất cơ thể. Chúng kích thích hoạt động của bơm Na+-K+-ATPase, tăng tiêu thụ oxy ở hầu hết các mô cơ thể, từ đó làm tăng chuyển hóa cơ sở. \n- Cường giáp (như bệnh Basedow) làm tăng tiết T3-T4 khiến bệnh nhân sút cân nhanh, người nóng nực. Ngược lại suy giáp làm giảm chuyển hóa cơ sở, bệnh nhân sợ lạnh, tăng cân."
+    "explanation": "- Hormone tuyến giáp **Thyroxin (T4)** và Triiodothyronine (T3) là những hormone có tác dụng sinh nhiệt và làm tăng chuyển hóa tế bào mạnh nhất cơ thể. Chúng kích thích hoạt động của bơm Na+-K+-ATPase, tăng tiêu thụ oxy ở hầu hết các mô cơ thể, từ đó làm tăng chuyển hóa cơ sở.\n- Cường giáp (như bệnh Basedow) làm tăng tiết T3-T4 khiến bệnh nhân sút cân nhanh, người nóng nực. Ngược lại suy giáp làm giảm chuyển hóa cơ sở, bệnh nhân sợ lạnh, tăng cân."
   },
   {
     "id": 130,
@@ -3802,7 +3802,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Vùng dưới đồi (Hypothalamus) (D)** là trung tâm tích hợp và điều hòa thân nhiệt cao cấp của cơ thể. \n- Nó nhận thông tin nhiệt độ từ các receptor nhiệt ở da và các thụ thể nhiệt trung ương nằm ngay trong chính vùng dưới đồi (cảm nhận nhiệt độ dòng máu đi qua). Vùng dưới đồi chia làm hai phần chính điều phối:\n  - Vùng dưới đồi trước (anteyposterior hypothalamus): Trung tâm chống nóng (chỉ huy giãn mạch da, vã mồ hôi).\n  - Vùng dưới đồi sau (posterior hypothalamus): Trung tâm chống lạnh (chỉ huy co mạch da, run cơ sinh nhiệt, tăng chuyển hóa)."
+    "explanation": "- **Vùng dưới đồi (Hypothalamus) (D)** là trung tâm tích hợp và điều hòa thân nhiệt cao cấp của cơ thể.\n- Nó nhận thông tin nhiệt độ từ các receptor nhiệt ở da và các thụ thể nhiệt trung ương nằm ngay trong chính vùng dưới đồi (cảm nhận nhiệt độ dòng máu đi qua). Vùng dưới đồi chia làm hai phần chính điều phối:\n- Vùng dưới đồi trước (anteyposterior hypothalamus): Trung tâm chống nóng (chỉ huy giãn mạch da, vã mồ hôi).\n- Vùng dưới đồi sau (posterior hypothalamus): Trung tâm chống lạnh (chỉ huy co mạch da, run cơ sinh nhiệt, tăng chuyển hóa)."
   },
   {
     "id": 136,
@@ -3829,7 +3829,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Thân nhiệt của cơ thể hằng nhiệt được giữ ở mức ổn định nhờ sự **cân bằng động giữa hai quá trình đối lập:**\n  - **Quá trình sinh nhiệt (Thermogenesis):** Chủ yếu từ các hoạt động chuyển hóa hóa học tại gan, não và các phản ứng co cơ xương (vận cơ, run cơ).\n  - **Quá trình thải nhiệt (tỏa nhiệt - Thermolysis):** Thải nhiệt ra môi trường qua các hình thức vật lý: bức xạ nhiệt, truyền nhiệt trực tiếp, đối lưu và bay hơi nước (qua da và đường hô hấp)."
+    "explanation": "- Thân nhiệt của cơ thể hằng nhiệt được giữ ở mức ổn định nhờ sự **cân bằng động giữa hai quá trình đối lập:**\n- **Quá trình sinh nhiệt (Thermogenesis):** Chủ yếu từ các hoạt động chuyển hóa hóa học tại gan, não và các phản ứng co cơ xương (vận cơ, run cơ).\n- **Quá trình thải nhiệt (tỏa nhiệt - Thermolysis):** Thải nhiệt ra môi trường qua các hình thức vật lý: bức xạ nhiệt, truyền nhiệt trực tiếp, đối lưu và bay hơi nước (qua da và đường hô hấp)."
   },
   {
     "id": 137,
@@ -3945,7 +3945,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Da là cơ quan bao bọc bên ngoài cơ thể, đảm nhiệm chức năng bảo vệ toàn diện:\n  - Chống mài mòn, tác động cơ học nhờ lớp sừng thượng bì dày và mô liên kết dai của trung bì (A).\n  - Chống tia UV có hại nhờ hắc tố melanin do tế bào melanocyte sản xuất (B).\n  - Ngăn ngừa vi khuẩn và các tác nhân sinh học xâm nhập nhờ tính liên tục của tế bào sừng và màng axit bảo vệ da (C).\n  - Ngăn ngừa sự mất nước thụ động của các mô bên trong cơ thể nhờ lớp chất béo kỵ nước giữa các tế bào sừng (D)."
+    "explanation": "- Da là cơ quan bao bọc bên ngoài cơ thể, đảm nhiệm chức năng bảo vệ toàn diện:\n- Chống mài mòn, tác động cơ học nhờ lớp sừng thượng bì dày và mô liên kết dai của trung bì (A).\n- Chống tia UV có hại nhờ hắc tố melanin do tế bào melanocyte sản xuất (B).\n- Ngăn ngừa vi khuẩn và các tác nhân sinh học xâm nhập nhờ tính liên tục của tế bào sừng và màng axit bảo vệ da (C).\n- Ngăn ngừa sự mất nước thụ động của các mô bên trong cơ thể nhờ lớp chất béo kỵ nước giữa các tế bào sừng (D)."
   },
   {
     "id": 141,
@@ -3976,7 +3976,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Cấu trúc da gồm 3 lớp chính: Thượng bì, trung bì và hạ bì (mô dưới da).\n- **Trung bì (Dermis) (A)** được cấu tạo từ mô liên kết đặc, chứa các sợi collagen và sợi chun dai, giúp da có tính đàn hồi. \n- Mặt trên của trung bì lồi lõm tạo thành các **nhú chân bì (dermal papillae)** nhô vào lớp thượng bì, giúp hai lớp dính chặt vào nhau và tạo nên các đường vân da (vân tay)."
+    "explanation": "- Cấu trúc da gồm 3 lớp chính: Thượng bì, trung bì và hạ bì (mô dưới da).\n- **Trung bì (Dermis) (A)** được cấu tạo từ mô liên kết đặc, chứa các sợi collagen và sợi chun dai, giúp da có tính đàn hồi.\n- Mặt trên của trung bì lồi lõm tạo thành các **nhú chân bì (dermal papillae)** nhô vào lớp thượng bì, giúp hai lớp dính chặt vào nhau và tạo nên các đường vân da (vân tay)."
   },
   {
     "id": 142,
@@ -4003,7 +4003,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Mô dưới da (Hạ bì - Hypodermis/Subcutaneous tissue) (B)** nằm ngay dưới lớp trung bì. Nó cấu tạo gồm mô liên kết thưa và các thùy mỡ lớn, chứa khoảng 50% tổng lượng mỡ dự trữ của cơ thể. \n- Lớp này đóng vai trò cách nhiệt, giảm chấn động cơ học bảo vệ các cấu trúc sâu bên dưới (cơ, xương) và giúp da trượt dễ dàng trên các mô sâu."
+    "explanation": "- **Mô dưới da (Hạ bì - Hypodermis/Subcutaneous tissue) (B)** nằm ngay dưới lớp trung bì. Nó cấu tạo gồm mô liên kết thưa và các thùy mỡ lớn, chứa khoảng 50% tổng lượng mỡ dự trữ của cơ thể.\n- Lớp này đóng vai trò cách nhiệt, giảm chấn động cơ học bảo vệ các cấu trúc sâu bên dưới (cơ, xương) và giúp da trượt dễ dàng trên các mô sâu."
   },
   {
     "id": 143,
@@ -4119,7 +4119,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- **Tím tái (Cyanosis) (E)** là hiện tượng da và niêm mạc (môi, móng tay) chuyển sang màu xanh tím. \n- Nguyên nhân là do nồng độ hemoglobin khử (hemoglobin không gắn oxy) trong máu mao mạch tăng cao (trên 5 g/dL), phản ánh tình trạng **giảm oxy trong máu** (gặp trong suy hô hấp, suy tim, tắc nghẽn đường thở hoặc lạnh mạch máu ngoại vi co lại gây ứ trệ tuần hoàn)."
+    "explanation": "- **Tím tái (Cyanosis) (E)** là hiện tượng da và niêm mạc (môi, móng tay) chuyển sang màu xanh tím.\n- Nguyên nhân là do nồng độ hemoglobin khử (hemoglobin không gắn oxy) trong máu mao mạch tăng cao (trên 5 g/dL), phản ánh tình trạng **giảm oxy trong máu** (gặp trong suy hô hấp, suy tim, tắc nghẽn đường thở hoặc lạnh mạch máu ngoại vi co lại gây ứ trệ tuần hoàn)."
   },
   {
     "id": 147,
@@ -4200,7 +4200,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Lý thuyết gốc về Quy tắc số 9 (Rule of Nines) của Wallace trong đánh giá diện tích bỏng:**\n  Quy tắc số 9 chia diện tích bề mặt cơ thể người trưởng thành thành các phần, mỗi phần chiếm 9% hoặc bội số của 9% tổng diện tích cơ thể:\n  \n  | Bộ phận cơ thể | Phần trăm diện tích (%) | Chi tiết phân chia |\n  | :--- | :--- | :--- |\n  | **Đầu và cổ** | **9%** | Đầu trước (4.5%), Đầu sau (4.5%) |\n  | **Mỗi chi trước (Cánh tay, cẳng tay, bàn tay)** | **9% (Tổng 2 tay = 18%)** | Mỗi cánh tay trước (4.5%), sau (4.5%) |\n  | **Thân mình mặt trước (Ngực và bụng)** | **18%** | Ngực (9%), Bụng (9%) |\n  | **Thân mình mặt sau (Lưng và mông)** | **18%** | Lưng trên (9%), Lưng dưới và mông (9%) |\n  | **Mỗi chi sau (Đùi, cẳng chân, bàn chân)** | **18% (Tổng 2 chân = 36%)** | Mỗi chân mặt trước (9%), sau (9%) |\n  | **Bộ phận sinh dục ngoài & Đáy chậu** | **1%** | Vùng đáy chậu |\n  | **Tổng cộng** | **100%** | |\n\n- Áp dụng vào câu hỏi: Người đàn ông bị bỏng ở **đầu (9%)** và **hai cánh tay trên (9% x 2 = 18%)**.\n- Tổng diện tích bỏng là: $9\\% + 18\\% = 27\\%$ (Đáp án C)."
+    "explanation": "- **Lý thuyết gốc về Quy tắc số 9 (Rule of Nines) của Wallace trong đánh giá diện tích bỏng:**\nQuy tắc số 9 chia diện tích bề mặt cơ thể người trưởng thành thành các phần, mỗi phần chiếm 9% hoặc bội số của 9% tổng diện tích cơ thể:\n\n| Bộ phận cơ thể | Phần trăm diện tích (%) | Chi tiết phân chia |\n| :--- | :--- | :--- |\n| **Đầu và cổ** | **9%** | Đầu trước (4.5%), Đầu sau (4.5%) |\n| **Mỗi chi trước (Cánh tay, cẳng tay, bàn tay)** | **9% (Tổng 2 tay = 18%)** | Mỗi cánh tay trước (4.5%), sau (4.5%) |\n| **Thân mình mặt trước (Ngực và bụng)** | **18%** | Ngực (9%), Bụng (9%) |\n| **Thân mình mặt sau (Lưng và mông)** | **18%** | Lưng trên (9%), Lưng dưới và mông (9%) |\n| **Mỗi chi sau (Đùi, cẳng chân, bàn chân)** | **18% (Tổng 2 chân = 36%)** | Mỗi chân mặt trước (9%), sau (9%) |\n| **Bộ phận sinh dục ngoài & Đáy chậu** | **1%** | Vùng đáy chậu |\n| **Tổng cộng** | **100%** | |\n\n- Áp dụng vào câu hỏi: Người đàn ông bị bỏng ở **đầu (9%)** và **hai cánh tay trên (9% x 2 = 18%)**.\n- Tổng diện tích bỏng là: $9\\% + 18\\% = 27\\%$ (Đáp án C)."
   },
   {
     "id": 150,
@@ -4227,7 +4227,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Có hai loại tuyến mồ hôi chính:\n  1. **Tuyến mồ hôi Eccrine (tuyến mồ hôi nước/thông thường) (B):** Phân bố rộng khắp cơ thể (nhiều nhất ở lòng bàn tay, bàn chân, trán). Tuyến này hoạt động từ khi sinh ra, đổ trực tiếp lên bề mặt da, thành phần chủ yếu là nước và muối, phản ứng trực tiếp với sự tăng nhiệt độ cơ thể để thải nhiệt.\n  2. **Tuyến mồ hôi Apocrine (tuyến mồ hôi đầu hủy/tuyến mùi):** Tập trung ở vùng nách, bẹn và quầng vú. Tuyến này hoạt động từ tuổi dậy thì, đổ vào nang tóc (D), tiết dịch đặc chứa protein và lipid dễ bị vi khuẩn phân hủy gây mùi, phản ứng chủ yếu với kích thích cảm xúc, stress (C)."
+    "explanation": "- Có hai loại tuyến mồ hôi chính:\n1. **Tuyến mồ hôi Eccrine (tuyến mồ hôi nước/thông thường) (B):** Phân bố rộng khắp cơ thể (nhiều nhất ở lòng bàn tay, bàn chân, trán). Tuyến này hoạt động từ khi sinh ra, đổ trực tiếp lên bề mặt da, thành phần chủ yếu là nước và muối, phản ứng trực tiếp với sự tăng nhiệt độ cơ thể để thải nhiệt.\n2. **Tuyến mồ hôi Apocrine (tuyến mồ hôi đầu hủy/tuyến mùi):** Tập trung ở vùng nách, bẹn và quầng vú. Tuyến này hoạt động từ tuổi dậy thì, đổ vào nang tóc (D), tiết dịch đặc chứa protein và lipid dễ bị vi khuẩn phân hủy gây mùi, phản ứng chủ yếu với kích thích cảm xúc, stress (C)."
   },
   {
     "id": 151,
@@ -4254,7 +4254,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Tuyến bã nhờn (Sebaceous glands) có các đặc điểm:\n  - Hầu hết các tuyến bã nhờn đều có ống bài tiết đổ vào **nang tóc** (A).\n  - Hoạt động theo kiểu **toàn phần (holocrine)**: Các tế bào tuyến tích lũy chất tiết đầy trong bào tương, sau đó toàn bộ tế bào bị phân hủy hoàn toàn để giải phóng ra chất tiết (B).\n  - Chất tiết của tuyến gọi là **bã nhờn (sebum)** chứa lipid giúp bôi trơn tóc, làm mềm da và chống mất nước (C).\n- Do đó, cả A, B, C đều đúng."
+    "explanation": "- Tuyến bã nhờn (Sebaceous glands) có các đặc điểm:\n- Hầu hết các tuyến bã nhờn đều có ống bài tiết đổ vào **nang tóc** (A).\n- Hoạt động theo kiểu **toàn phần (holocrine)**: Các tế bào tuyến tích lũy chất tiết đầy trong bào tương, sau đó toàn bộ tế bào bị phân hủy hoàn toàn để giải phóng ra chất tiết (B).\n- Chất tiết của tuyến gọi là **bã nhờn (sebum)** chứa lipid giúp bôi trơn tóc, làm mềm da và chống mất nước (C).\n- Do đó, cả A, B, C đều đúng."
   },
   {
     "id": 152,
@@ -4308,7 +4308,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Khi thời tiết lạnh, cơ thể phản xạ co mạnh các tiểu động mạch dưới da để giảm lưu lượng máu đến da nhằm giữ nhiệt. \n- Sự co mạch làm dòng máu chảy rất chậm qua các mao mạch da, khiến lượng oxy bị mô da lấy đi nhiều hơn bình thường. Điều này dẫn đến sự gia tăng nồng độ hemoglobin khử (mất oxy) trong các mao mạch da, gây ra tình trạng da xanh tái hoặc **tím tái (cyanosis)** ở các vùng nhạy cảm như đầu ngón tay, ngón chân, tai, mũi."
+    "explanation": "- Khi thời tiết lạnh, cơ thể phản xạ co mạnh các tiểu động mạch dưới da để giảm lưu lượng máu đến da nhằm giữ nhiệt.\n- Sự co mạch làm dòng máu chảy rất chậm qua các mao mạch da, khiến lượng oxy bị mô da lấy đi nhiều hơn bình thường. Điều này dẫn đến sự gia tăng nồng độ hemoglobin khử (mất oxy) trong các mao mạch da, gây ra tình trạng da xanh tái hoặc **tím tái (cyanosis)** ở các vùng nhạy cảm như đầu ngón tay, ngón chân, tai, mũi."
   },
   {
     "id": 154,
@@ -4362,7 +4362,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Hệ thần kinh được chia về mặt giải phẫu thành hai phần chính:\n  - **Hệ thần kinh trung ương (CNS):** Gồm não bộ (nằm trong hộp sọ) và **tủy sống (spinal cord) (C)** (nằm trong ống sống).\n  - **Hệ thần kinh ngoại biên (PNS):** Gồm toàn bộ phần thần kinh nằm ngoài CNS, bao gồm 12 đôi dây thần kinh sọ não (A), 31 đôi dây thần kinh sống (D) và các hạch thần kinh (ganglia) (B) nằm rải rác trên đường đi của dây thần kinh."
+    "explanation": "- Hệ thần kinh được chia về mặt giải phẫu thành hai phần chính:\n- **Hệ thần kinh trung ương (CNS):** Gồm não bộ (nằm trong hộp sọ) và **tủy sống (spinal cord) (C)** (nằm trong ống sống).\n- **Hệ thần kinh ngoại biên (PNS):** Gồm toàn bộ phần thần kinh nằm ngoài CNS, bao gồm 12 đôi dây thần kinh sọ não (A), 31 đôi dây thần kinh sống (D) và các hạch thần kinh (ganglia) (B) nằm rải rác trên đường đi của dây thần kinh."
   },
   {
     "id": 156,
@@ -4470,7 +4470,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Pha tái cực (Repolarization) đưa điện thế màng từ đỉnh dương trở lại trạng thái nghỉ âm tính. Pha này xảy ra do sự phối hợp của hai sự kiện diễn ra đồng thời:\n  - **Đóng (bất hoạt) các kênh Na+ nhạy cảm điện thế (C):** Ngăn chặn hoàn toàn ion Na+ tiếp tục đi vào tế bào.\n  - **Mở các kênh K+ nhạy cảm điện thế (B):** Kênh K+ mở chậm hơn kênh Na+, khi mở ra sẽ cho các ion K+ (tập trung nhiều ở nội bào) ồ ạt khuếch tán ra ngoài tế bào mang theo điện tích dương, làm cho điện thế mặt trong màng âm trở lại.\n- Do đó, cả B và C đều đúng (Đáp án D)."
+    "explanation": "- Pha tái cực (Repolarization) đưa điện thế màng từ đỉnh dương trở lại trạng thái nghỉ âm tính. Pha này xảy ra do sự phối hợp của hai sự kiện diễn ra đồng thời:\n- **Đóng (bất hoạt) các kênh Na+ nhạy cảm điện thế (C):** Ngăn chặn hoàn toàn ion Na+ tiếp tục đi vào tế bào.\n- **Mở các kênh K+ nhạy cảm điện thế (B):** Kênh K+ mở chậm hơn kênh Na+, khi mở ra sẽ cho các ion K+ (tập trung nhiều ở nội bào) ồ ạt khuếch tán ra ngoài tế bào mang theo điện tích dương, làm cho điện thế mặt trong màng âm trở lại.\n- Do đó, cả B và C đều đúng (Đáp án D)."
   },
   {
     "id": 160,
@@ -4551,7 +4551,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Lý thuyết gốc về cấu trúc giải phẫu của Đám rối thần kinh cánh tay (Brachial Plexus):**\n  Đám rối thần kinh cánh tay chi phối vận động và cảm giác của toàn bộ chi trên. Nó được cấu trúc tuần tự qua 5 phần: Rễ (Roots) -> Thân (Trunks) -> Ngành (Divisions) -> Bó (Cords) -> Nhánh tận (Branches).\n  \n  1. **Rễ (Roots):** Được tạo nên bởi các nhánh trước (anterior rami) của các dây thần kinh sống từ **C5 đến T1** (gồm C5, C6, C7, C8 và T1). Đôi khi có nhánh phụ từ C4 hoặc T2.\n  2. **Thân (Trunks):** Các rễ hợp lại tạo thành 3 thân lớn:\n     - *Thân trên (Superior Trunk):* Do rễ C5 và C6 hợp lại.\n     - *Thân giữa (Middle Trunk):* Là sự tiếp tục của rễ C7.\n     - *Thân dưới (Inferior Trunk):* Do rễ C8 và T1 hợp lại.\n  3. **Ngành (Divisions):** Mỗi thân đi xuống phía sau xương đòn và chia thành 2 ngành: ngành trước (anterior) và ngành sau (posterior).\n  4. **Bó (Cords):** Các ngành chui vào hố nách vây quanh động mạch nách, hợp lại thành 3 bó:\n     - *Bó ngoài (Lateral Cord):* Ngành trước thân trên + ngành trước thân giữa.\n     - *Bó trong (Medial Cord):* Ngành trước thân dưới.\n     - *Bó sau (Posterior Cord):* Cả 3 ngành sau của 3 thân chập lại.\n  5. **Nhánh tận (Terminal Branches):** Các bó cho ra 5 dây thần kinh ngoại biên lớn chi phối chi trên:\n     - *Dây thần kinh cơ da (Musculocutaneous nerve):* Từ bó ngoài.\n     - *Dây thần kinh giữa (Median nerve):* Từ bó ngoài và bó trong hợp lại.\n     - *Dây thần kinh trụ (Ulnar nerve):* Từ bó trong.\n     - *Dây thần kinh quay (Radial nerve):* Từ bó sau.\n     - *Dây thần kinh nách (Axillary nerve):* Từ bó sau.\n\n- Do đó, đám rối cánh tay cấu tạo từ các rễ C5 - T1 (Đáp án C)."
+    "explanation": "- **Lý thuyết gốc về cấu trúc giải phẫu của Đám rối thần kinh cánh tay (Brachial Plexus):**\nĐám rối thần kinh cánh tay chi phối vận động và cảm giác của toàn bộ chi trên. Nó được cấu trúc tuần tự qua 5 phần: Rễ (Roots) -> Thân (Trunks) -> Ngành (Divisions) -> Bó (Cords) -> Nhánh tận (Branches).\n\n1. **Rễ (Roots):** Được tạo nên bởi các nhánh trước (anterior rami) của các dây thần kinh sống từ **C5 đến T1** (gồm C5, C6, C7, C8 và T1). Đôi khi có nhánh phụ từ C4 hoặc T2.\n2. **Thân (Trunks):** Các rễ hợp lại tạo thành 3 thân lớn:\n- *Thân trên (Superior Trunk):* Do rễ C5 và C6 hợp lại.\n- *Thân giữa (Middle Trunk):* Là sự tiếp tục của rễ C7.\n- *Thân dưới (Inferior Trunk):* Do rễ C8 và T1 hợp lại.\n3. **Ngành (Divisions):** Mỗi thân đi xuống phía sau xương đòn và chia thành 2 ngành: ngành trước (anterior) và ngành sau (posterior).\n4. **Bó (Cords):** Các ngành chui vào hố nách vây quanh động mạch nách, hợp lại thành 3 bó:\n- *Bó ngoài (Lateral Cord):* Ngành trước thân trên + ngành trước thân giữa.\n- *Bó trong (Medial Cord):* Ngành trước thân dưới.\n- *Bó sau (Posterior Cord):* Cả 3 ngành sau của 3 thân chập lại.\n5. **Nhánh tận (Terminal Branches):** Các bó cho ra 5 dây thần kinh ngoại biên lớn chi phối chi trên:\n- *Dây thần kinh cơ da (Musculocutaneous nerve):* Từ bó ngoài.\n- *Dây thần kinh giữa (Median nerve):* Từ bó ngoài và bó trong hợp lại.\n- *Dây thần kinh trụ (Ulnar nerve):* Từ bó trong.\n- *Dây thần kinh quay (Radial nerve):* Từ bó sau.\n- *Dây thần kinh nách (Axillary nerve):* Từ bó sau.\n\n- Do đó, đám rối cánh tay cấu tạo từ các rễ C5 - T1 (Đáp án C)."
   },
   {
     "id": 163,
@@ -4686,7 +4686,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Bệnh Parkinson** là một bệnh lý thoái hóa hệ thần kinh mạn tính tiến triển, đặc trưng bởi sự thoái hóa và mất đi các neuron sinh sắc tố ở **chất đen (substantia nigra)** thuộc nhân nền não.\n- Các neuron này chịu trách nhiệm bài tiết chất dẫn truyền thần kinh **Dopamine (B)** có tác dụng ức chế và điều hòa các cử động có ý thức của cơ thể. \n- Thiếu hụt Dopamine ở đường vân - chất đen dẫn đến mất cân bằng với acetylcholine (kích thích), gây ra các triệu chứng vận động điển hình: run khi nghỉ (tremor), đơ cứng cơ (rigidity), cử động chậm chạp (bradykinesia) và mất vững tư thế."
+    "explanation": "- **Bệnh Parkinson** là một bệnh lý thoái hóa hệ thần kinh mạn tính tiến triển, đặc trưng bởi sự thoái hóa và mất đi các neuron sinh sắc tố ở **chất đen (substantia nigra)** thuộc nhân nền não.\n- Các neuron này chịu trách nhiệm bài tiết chất dẫn truyền thần kinh **Dopamine (B)** có tác dụng ức chế và điều hòa các cử động có ý thức của cơ thể.\n- Thiếu hụt Dopamine ở đường vân - chất đen dẫn đến mất cân bằng với acetylcholine (kích thích), gây ra các triệu chứng vận động điển hình: run khi nghỉ (tremor), đơ cứng cơ (rigidity), cử động chậm chạp (bradykinesia) và mất vững tư thế."
   },
   {
     "id": 168,
@@ -4713,7 +4713,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Hệ thần kinh thân thể (Somatic nervous system - chi phối cơ xương):** Chỉ sử dụng duy nhất một neuron vận động đi từ sừng trước tủy sống thẳng đến cơ xương, giải phóng duy nhất chất dẫn truyền thần kinh **Acetylcholine (ACh)**.\n- **Hệ thần kinh tự chủ (Autonomic nervous system - ANS, chi phối tim, tuyến và cơ trơn):** Gồm con đường 2 neuron (neuron tiền hạch và neuron hậu hạch).\n  - Tất cả các sợi tiền hạch (cả giao cảm và phó giao cảm) cùng các sợi hậu hạch phó giao cảm đều giải phóng **Acetylcholine**.\n  - Phần lớn các sợi hậu hạch giao cảm giải phóng **Norepinephrine** (trừ sợi giao cảm đến tuyến mồ hôi giải phóng ACh).\n- Do đó hệ thần kinh tự chủ tiết ra Acetylcholine hoặc Norepinephrine (Đáp án C)."
+    "explanation": "- **Hệ thần kinh thân thể (Somatic nervous system - chi phối cơ xương):** Chỉ sử dụng duy nhất một neuron vận động đi từ sừng trước tủy sống thẳng đến cơ xương, giải phóng duy nhất chất dẫn truyền thần kinh **Acetylcholine (ACh)**.\n- **Hệ thần kinh tự chủ (Autonomic nervous system - ANS, chi phối tim, tuyến và cơ trơn):** Gồm con đường 2 neuron (neuron tiền hạch và neuron hậu hạch).\n- Tất cả các sợi tiền hạch (cả giao cảm và phó giao cảm) cùng các sợi hậu hạch phó giao cảm đều giải phóng **Acetylcholine**.\n- Phần lớn các sợi hậu hạch giao cảm giải phóng **Norepinephrine** (trừ sợi giao cảm đến tuyến mồ hôi giải phóng ACh).\n- Do đó hệ thần kinh tự chủ tiết ra Acetylcholine hoặc Norepinephrine (Đáp án C)."
   },
   {
     "id": 169,
@@ -4983,7 +4983,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **ADH (Antidiuretic Hormone - hormone chống bài niệu)** gắn vào receptor V2 trên màng tế bào ống lượn xa và ống góp của thận, kích hoạt chèn các kênh nước Aquaporin-2 vào màng đỉnh tế bào biểu mô ống thận. \n- Điều này làm tăng tính thấm của ống thận với nước, thúc đẩy tăng cường **tái hấp thu nước trả lại cho máu (giữ nước) (B)**, làm giảm thể tích nước tiểu và cô đặc nước tiểu. Ở nồng độ cao, ADH gây co mạch máu làm tăng huyết áp (nên còn gọi là Vasopressin)."
+    "explanation": "- **ADH (Antidiuretic Hormone - hormone chống bài niệu)** gắn vào receptor V2 trên màng tế bào ống lượn xa và ống góp của thận, kích hoạt chèn các kênh nước Aquaporin-2 vào màng đỉnh tế bào biểu mô ống thận.\n- Điều này làm tăng tính thấm của ống thận với nước, thúc đẩy tăng cường **tái hấp thu nước trả lại cho máu (giữ nước) (B)**, làm giảm thể tích nước tiểu và cô đặc nước tiểu. Ở nồng độ cao, ADH gây co mạch máu làm tăng huyết áp (nên còn gọi là Vasopressin)."
   },
   {
     "id": 179,
@@ -5091,7 +5091,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Các **hormone tuyến giáp (T3 - Triiodothyronine và T4 - Thyroxine) (D)** được cấu tạo từ các nguyên tử Iốt gắn với gốc axit amin tyrosine. \n- Nếu chế độ ăn thiếu hụt iốt, tuyến giáp không có đủ nguyên liệu để tổng hợp T3 và T4, dẫn đến nồng độ hormone tuyến giáp trong máu giảm sút. Sự giảm sút này kích hoạt phản hồi âm lên tuyến yên làm tăng tiết TSH. TSH kích thích liên tục tế bào nang giáp phì đại tạo nên bệnh cảnh **bướu cổ phình giáp đơn thuần do thiếu iốt**."
+    "explanation": "- Các **hormone tuyến giáp (T3 - Triiodothyronine và T4 - Thyroxine) (D)** được cấu tạo từ các nguyên tử Iốt gắn với gốc axit amin tyrosine.\n- Nếu chế độ ăn thiếu hụt iốt, tuyến giáp không có đủ nguyên liệu để tổng hợp T3 và T4, dẫn đến nồng độ hormone tuyến giáp trong máu giảm sút. Sự giảm sút này kích hoạt phản hồi âm lên tuyến yên làm tăng tiết TSH. TSH kích thích liên tục tế bào nang giáp phì đại tạo nên bệnh cảnh **bướu cổ phình giáp đơn thuần do thiếu iốt**."
   },
   {
     "id": 183,
@@ -5226,7 +5226,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Cortisol (B)** do lớp bó vỏ thượng thận tiết ra là hormone chống stress chính yếu của cơ thể. \n- Khi cơ thể chịu các kích thích stress (như chấn thương, nhiễm trùng, lạnh buốt, lo âu sợ hãi), vùng dưới đồi tăng tiết CRH kích thích tuyến yên tiết ACTH, làm vỏ thượng thận giải phóng lượng lớn cortisol vào máu. Cortisol giúp cơ thể chống lại stress bằng cách huy động glucose huyết, phân giải protein/lipid tạo năng lượng và ức chế các phản ứng viêm có hại.\n- Tủy thượng thận tiết adrenaline cũng tham gia phản ứng stress cấp tính (phản ứng chiến đấu hay bỏ chạy)."
+    "explanation": "- **Cortisol (B)** do lớp bó vỏ thượng thận tiết ra là hormone chống stress chính yếu của cơ thể.\n- Khi cơ thể chịu các kích thích stress (như chấn thương, nhiễm trùng, lạnh buốt, lo âu sợ hãi), vùng dưới đồi tăng tiết CRH kích thích tuyến yên tiết ACTH, làm vỏ thượng thận giải phóng lượng lớn cortisol vào máu. Cortisol giúp cơ thể chống lại stress bằng cách huy động glucose huyết, phân giải protein/lipid tạo năng lượng và ức chế các phản ứng viêm có hại.\n- Tủy thượng thận tiết adrenaline cũng tham gia phản ứng stress cấp tính (phản ứng chiến đấu hay bỏ chạy)."
   },
   {
     "id": 188,
@@ -5252,7 +5252,7 @@ const QUESTIONS = [
         "text": "Tăng nồng độ kali trong máu"
       }
     ],
-    "answer": "?",
+    "answer": "Đáp án đúng",
     "explanation": "- C, đồng thời làm tăng nồng độ Na+ và làm giảm nồng độ K+ trong máu).\n**Giải thích chi tiết:**\n- Mineralocorticoid (chủ yếu là **Aldosterone**) hoạt động tại ống thận kích hoạt tái hấp thu tích cực Na+ và bài tiết K+. Nước được tái hấp thu thụ động kéo theo Na+.\n- Việc tăng tái hấp thu nước từ lòng ống thận về máu giúp cô đặc nước tiểu (C), duy trì thể tích tuần hoàn và huyết áp cơ thể."
   },
   {
@@ -5307,7 +5307,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Ngoài các tế bào nang giáp tiết T3-T4, tuyến giáp còn chứa các **tế bào cận nang (tế bào C)** có nhiệm vụ bài tiết hormone **Calcitonin (B)**. \n- Calcitonin được tiết ra khi nồng độ canxi trong máu tăng cao. Nó hoạt động làm **hạ canxi máu** bằng cách ức chế hoạt động của tế bào hủy xương (osteoclast) làm giảm giải phóng canxi từ xương vào máu, đồng thời tăng đào thải canxi qua thận.\n- PTH là hormone của tuyến cận giáp làm tăng canxi máu (D)."
+    "explanation": "- Ngoài các tế bào nang giáp tiết T3-T4, tuyến giáp còn chứa các **tế bào cận nang (tế bào C)** có nhiệm vụ bài tiết hormone **Calcitonin (B)**.\n- Calcitonin được tiết ra khi nồng độ canxi trong máu tăng cao. Nó hoạt động làm **hạ canxi máu** bằng cách ức chế hoạt động của tế bào hủy xương (osteoclast) làm giảm giải phóng canxi từ xương vào máu, đồng thời tăng đào thải canxi qua thận.\n- PTH là hormone của tuyến cận giáp làm tăng canxi máu (D)."
   },
   {
     "id": 191,
@@ -5361,7 +5361,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Tuyến tụy nội tiết là các đảo tụy (đảo Langerhans) chứa các tế bào tiết hormone:\n  - Tế bào alpha tiết **Glucagon (A)**.\n  - Tế bào beta tiết **Insulin (C)**.\n  - Tế bào delta tiết **Somatostatin (D)**.\n- **Glucocorticoid (B)** (như cortisol) là hormone do **vỏ tuyến thượng thận** tiết ra, không phải do tuyến tụy."
+    "explanation": "- Tuyến tụy nội tiết là các đảo tụy (đảo Langerhans) chứa các tế bào tiết hormone:\n- Tế bào alpha tiết **Glucagon (A)**.\n- Tế bào beta tiết **Insulin (C)**.\n- Tế bào delta tiết **Somatostatin (D)**.\n- **Glucocorticoid (B)** (như cortisol) là hormone do **vỏ tuyến thượng thận** tiết ra, không phải do tuyến tụy."
   },
   {
     "id": 193,
@@ -5388,7 +5388,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Glucagon (D)** do tế bào alpha của tiểu đảo tụy tiết ra khi đường huyết hạ. Glucagon hoạt động chủ yếu tại gan để nâng cao nồng độ glucose trong máu bằng các con đường:\n  - Kích thích phân giải glycogen thành glucose tự do đưa vào máu.\n  - Thúc đẩy quá trình tân tạo đường (tạo mới glucose từ axit amin, lactate).\n  - Thúc đẩy phân giải lipid ở mô mỡ để giải phóng axit béo tự do làm nguồn năng lượng thay thế cho cơ thể."
+    "explanation": "- **Glucagon (D)** do tế bào alpha của tiểu đảo tụy tiết ra khi đường huyết hạ. Glucagon hoạt động chủ yếu tại gan để nâng cao nồng độ glucose trong máu bằng các con đường:\n- Kích thích phân giải glycogen thành glucose tự do đưa vào máu.\n- Thúc đẩy quá trình tân tạo đường (tạo mới glucose từ axit amin, lactate).\n- Thúc đẩy phân giải lipid ở mô mỡ để giải phóng axit béo tự do làm nguồn năng lượng thay thế cho cơ thể."
   },
   {
     "id": 194,
@@ -5415,7 +5415,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Khi đói hoặc tập luyện, nồng độ glucose máu giảm xuống. Sự giảm đường huyết này kích thích trực tiếp tế bào alpha đảo tụy tăng cường chế tiết **Glucagon (D)** nhằm giải phóng glucose dự trữ ở gan vào máu để phục hồi đường huyết. \n- Ngược lại, hạ đường huyết sẽ ức chế tiết insulin (A)."
+    "explanation": "- Khi đói hoặc tập luyện, nồng độ glucose máu giảm xuống. Sự giảm đường huyết này kích thích trực tiếp tế bào alpha đảo tụy tăng cường chế tiết **Glucagon (D)** nhằm giải phóng glucose dự trữ ở gan vào máu để phục hồi đường huyết.\n- Ngược lại, hạ đường huyết sẽ ức chế tiết insulin (A)."
   },
   {
     "id": 195,
@@ -5469,7 +5469,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Tế bào beta giảm tiết insulin khi:\n  - **Hạ đường huyết:** Nồng độ glucose trong máu thấp không cần insulin hoạt động hạ thêm.\n  - **Somatostatin:** Hormone do tế bào delta của đảo tụy tiết ra có tác dụng điều hòa cận tiết (paracrine) ức chế trực tiếp sự chế tiết của cả insulin (tế bào beta) và glucagon (tế bào alpha)."
+    "explanation": "- Tế bào beta giảm tiết insulin khi:\n- **Hạ đường huyết:** Nồng độ glucose trong máu thấp không cần insulin hoạt động hạ thêm.\n- **Somatostatin:** Hormone do tế bào delta của đảo tụy tiết ra có tác dụng điều hòa cận tiết (paracrine) ức chế trực tiếp sự chế tiết của cả insulin (tế bào beta) và glucagon (tế bào alpha)."
   },
   {
     "id": 197,
@@ -5496,7 +5496,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Tủy vàng (Yellow bone marrow) (C)** nằm chủ yếu ở khoang tủy của thân xương dài ở người trưởng thành. Nó được cấu tạo phần lớn bởi các tế bào mỡ (adipocytes), có chức năng **lưu trữ chất béo (mô mỡ)** dự trữ năng lượng cho cơ thể. \n- Tủy vàng không có chức năng tạo máu bình thường, tuy nhiên trong trường hợp mất máu cực kỳ nghiêm trọng, tủy vàng có thể chuyển đổi ngược lại thành tủy đỏ để hỗ trợ tạo máu."
+    "explanation": "- **Tủy vàng (Yellow bone marrow) (C)** nằm chủ yếu ở khoang tủy của thân xương dài ở người trưởng thành. Nó được cấu tạo phần lớn bởi các tế bào mỡ (adipocytes), có chức năng **lưu trữ chất béo (mô mỡ)** dự trữ năng lượng cho cơ thể.\n- Tủy vàng không có chức năng tạo máu bình thường, tuy nhiên trong trường hợp mất máu cực kỳ nghiêm trọng, tủy vàng có thể chuyển đổi ngược lại thành tủy đỏ để hỗ trợ tạo máu."
   },
   {
     "id": 198,
@@ -5523,7 +5523,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Tủy đỏ (Red bone marrow) (A)** chứa các tế bào gốc tạo máu vạn năng và mạng lưới mạch máu phong phú. \n- Vai trò sinh lý của tủy đỏ là **sản xuất ra các tế bào máu** (hồng cầu, bạch cầu và tiểu cầu) thông qua quá trình sinh máu. Ở trẻ em, hầu hết xương đều chứa tủy đỏ. Ở người lớn, tủy đỏ khu trú chủ yếu ở các xương dẹt (như xương chậu, xương ức, xương sọ) và đầu đầu xương dài (như đầu xương đùi, đầu xương cánh tay)."
+    "explanation": "- **Tủy đỏ (Red bone marrow) (A)** chứa các tế bào gốc tạo máu vạn năng và mạng lưới mạch máu phong phú.\n- Vai trò sinh lý của tủy đỏ là **sản xuất ra các tế bào máu** (hồng cầu, bạch cầu và tiểu cầu) thông qua quá trình sinh máu. Ở trẻ em, hầu hết xương đều chứa tủy đỏ. Ở người lớn, tủy đỏ khu trú chủ yếu ở các xương dẹt (như xương chậu, xương ức, xương sọ) và đầu đầu xương dài (như đầu xương đùi, đầu xương cánh tay)."
   },
   {
     "id": 199,
@@ -5550,7 +5550,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Giải phẫu cấu tạo của một xương dài gồm các phần:\n  - **Thân xương (Diaphysis) (D):** Phần ống trục dài nằm ở giữa xương, chứa khoang tủy xương.\n  - **Đầu xương (Epiphysis) (A):** Các phần phình rộng ở hai đầu của xương, được che phủ bởi sụn khớp.\n  - **Hành xương/Vùng chuyển tiếp (Metaphysis) (B):** Vùng chuyển tiếp nằm giữa thân xương và đầu xương, chứa đĩa tăng trưởng ở xương trẻ em.\n  - **Màng ngoài xương (Periosteum) (C):** Lớp màng liên kết đặc bao bọc bề mặt ngoài của xương (trừ diện khớp)."
+    "explanation": "- Giải phẫu cấu tạo của một xương dài gồm các phần:\n- **Thân xương (Diaphysis) (D):** Phần ống trục dài nằm ở giữa xương, chứa khoang tủy xương.\n- **Đầu xương (Epiphysis) (A):** Các phần phình rộng ở hai đầu của xương, được che phủ bởi sụn khớp.\n- **Hành xương/Vùng chuyển tiếp (Metaphysis) (B):** Vùng chuyển tiếp nằm giữa thân xương và đầu xương, chứa đĩa tăng trưởng ở xương trẻ em.\n- **Màng ngoài xương (Periosteum) (C):** Lớp màng liên kết đặc bao bọc bề mặt ngoài của xương (trừ diện khớp)."
   },
   {
     "id": 200,
@@ -5577,7 +5577,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Đĩa tăng trưởng (Đĩa sụn tiếp hợp - Epiphyseal plate) (B)** là một đĩa sụn trong nằm ở vùng hành xương (metaphysis) của xương dài đang phát triển ở trẻ em và thiếu niên. \n- Tại đĩa sụn này, các tế bào sụn liên tục phân chia, phì đại và sau đó được thay thế bằng mô xương (quá trình cốt hóa trực tiếp từ sụn), giúp xương dài ra theo chiều dọc. Khi đạt tuổi trưởng thành (dưới tác dụng của hormone sinh dục), đĩa sụn tiếp hợp này sẽ cốt hóa hoàn toàn và đóng lại tạo thành đường khớp đầu xương (epiphyseal line), lúc này chiều cao của người đó sẽ ngừng phát triển."
+    "explanation": "- **Đĩa tăng trưởng (Đĩa sụn tiếp hợp - Epiphyseal plate) (B)** là một đĩa sụn trong nằm ở vùng hành xương (metaphysis) của xương dài đang phát triển ở trẻ em và thiếu niên.\n- Tại đĩa sụn này, các tế bào sụn liên tục phân chia, phì đại và sau đó được thay thế bằng mô xương (quá trình cốt hóa trực tiếp từ sụn), giúp xương dài ra theo chiều dọc. Khi đạt tuổi trưởng thành (dưới tác dụng của hormone sinh dục), đĩa sụn tiếp hợp này sẽ cốt hóa hoàn toàn và đóng lại tạo thành đường khớp đầu xương (epiphyseal line), lúc này chiều cao của người đó sẽ ngừng phát triển."
   },
   {
     "id": 201,
@@ -5604,7 +5604,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Theo phân loại hình dạng xương:\n  - **Xương dẹt (Flat bones):** Có cấu trúc mỏng, dẹt, cong, có chức năng bảo vệ các cơ quan bên trong hoặc tạo diện bám rộng cho cơ. Ví dụ: **Xương ức (Sternum) (B)**, xương sọ, xương sườn, xương bả vai.\n  - *Xương dài (Long bones):* Có thân xương ống và 2 đầu xương. Ví dụ: Xương đùi (A).\n  - *Xương bất định hình (Irregular bones):* Có hình dạng phức tạp. Ví dụ: Đốt sống (C).\n  - *Xương ngắn (Short bones):* Hình khối đa diện, chiều dài gần bằng chiều rộng. Ví dụ: Các xương cổ chân/mắt cá (talus) (D), xương cổ tay."
+    "explanation": "- Theo phân loại hình dạng xương:\n- **Xương dẹt (Flat bones):** Có cấu trúc mỏng, dẹt, cong, có chức năng bảo vệ các cơ quan bên trong hoặc tạo diện bám rộng cho cơ. Ví dụ: **Xương ức (Sternum) (B)**, xương sọ, xương sườn, xương bả vai.\n- *Xương dài (Long bones):* Có thân xương ống và 2 đầu xương. Ví dụ: Xương đùi (A).\n- *Xương bất định hình (Irregular bones):* Có hình dạng phức tạp. Ví dụ: Đốt sống (C).\n- *Xương ngắn (Short bones):* Hình khối đa diện, chiều dài gần bằng chiều rộng. Ví dụ: Các xương cổ chân/mắt cá (talus) (D), xương cổ tay."
   },
   {
     "id": 202,
@@ -5658,7 +5658,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Cột sống người có **7 đốt sống cổ (C1 - C7) (B)** nằm ở vùng cổ. \n- Đốt thứ nhất (C1) gọi là đốt đội (atlas) nâng đỡ hộp sọ. Đốt thứ hai (C2) gọi là đốt trục (axis) có mỏm răng làm trục xoay cho đốt đội xoay đầu."
+    "explanation": "- Cột sống người có **7 đốt sống cổ (C1 - C7) (B)** nằm ở vùng cổ.\n- Đốt thứ nhất (C1) gọi là đốt đội (atlas) nâng đỡ hộp sọ. Đốt thứ hai (C2) gọi là đốt trục (axis) có mỏm răng làm trục xoay cho đốt đội xoay đầu."
   },
   {
     "id": 204,
@@ -5712,7 +5712,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Trong giải phẫu học, các thuật ngữ cử động khớp quy ước:\n  - **Dạng (Abduction) (C):** Cử động đưa một bộ phận cơ thể ra xa đường giữa của cơ thể hoặc ra xa trục của chi. Đối với các ngón tay, trục chi được quy ước là ngón tay giữa. Do đó, cử động xòe rộng các ngón tay ra xa ngón giữa được gọi là cử động **dạng ngón tay**.\n  - **Khép (Adduction):** Cử động đưa bộ phận lại gần đường giữa hoặc trục chi (khép khít các ngón tay lại gần ngón giữa) (D).\n  - *Gấp (Flexion)* làm giảm góc giữa 2 xương khớp, *Duỗi (Extension)* làm tăng góc đó."
+    "explanation": "- Trong giải phẫu học, các thuật ngữ cử động khớp quy ước:\n- **Dạng (Abduction) (C):** Cử động đưa một bộ phận cơ thể ra xa đường giữa của cơ thể hoặc ra xa trục của chi. Đối với các ngón tay, trục chi được quy ước là ngón tay giữa. Do đó, cử động xòe rộng các ngón tay ra xa ngón giữa được gọi là cử động **dạng ngón tay**.\n- **Khép (Adduction):** Cử động đưa bộ phận lại gần đường giữa hoặc trục chi (khép khít các ngón tay lại gần ngón giữa) (D).\n- *Gấp (Flexion)* làm giảm góc giữa 2 xương khớp, *Duỗi (Extension)* làm tăng góc đó."
   },
   {
     "id": 206,
@@ -5739,7 +5739,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Bệnh gút (Gout) (A)** là một bệnh lý rối loạn chuyển hóa nhân purine dẫn đến tình trạng tăng nồng độ axit uric trong máu. \n- Khi nồng độ axit uric vượt quá ngưỡng bão hòa trong dịch khớp, chúng sẽ kết tủa tạo thành các **tinh thể muối natri urat hình kim sắc nhọn** lắng đọng trong bao khớp, màng hoạt dịch và các mô xung quanh khớp (thường gặp nhất ở khớp bàn - ngón chân cái). Sự có mặt của các tinh thể này kích hoạt phản ứng thực bào của bạch cầu trung tính, giải phóng các enzym gây phản ứng viêm cấp tính dữ dội, đau đớn tột độ, sưng đỏ tại khớp (cơn gút cấp)."
+    "explanation": "- **Bệnh gút (Gout) (A)** là một bệnh lý rối loạn chuyển hóa nhân purine dẫn đến tình trạng tăng nồng độ axit uric trong máu.\n- Khi nồng độ axit uric vượt quá ngưỡng bão hòa trong dịch khớp, chúng sẽ kết tủa tạo thành các **tinh thể muối natri urat hình kim sắc nhọn** lắng đọng trong bao khớp, màng hoạt dịch và các mô xung quanh khớp (thường gặp nhất ở khớp bàn - ngón chân cái). Sự có mặt của các tinh thể này kích hoạt phản ứng thực bào của bạch cầu trung tính, giải phóng các enzym gây phản ứng viêm cấp tính dữ dội, đau đớn tột độ, sưng đỏ tại khớp (cơn gút cấp)."
   },
   {
     "id": 207,
@@ -5793,7 +5793,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Máu là mô liên kết lỏng lưu thông khắp cơ thể, thực hiện ba nhóm chức năng sinh lý cốt lõi:\n  - **Vận chuyển (A):** Vận chuyển khí (O2, CO2), chất dinh dưỡng, hormone, các ion và nhiệt độ đến các mô, đồng thời đưa chất đào thải đến phổi, thận.\n  - **Bảo vệ (C):** Nhờ hệ thống bạch cầu (thực bào, miễn dịch dịch thể và tế bào) tiêu diệt tác nhân lạ, cùng tiểu cầu và các yếu tố đông máu giúp cầm máu khi tổn thương mạch máu.\n  - **Điều hòa (D):** Điều hòa thăng bằng nước - điện giải, duy trì pH huyết tương (hệ đệm bicarbonate, phosphate, proteinate) và điều hòa thân nhiệt toàn thân.\n- **Chống đỡ (B)** là chức năng cơ học của hệ cơ và hệ xương nâng đỡ hình dạng cơ thể, không phải vai trò của máu."
+    "explanation": "- Máu là mô liên kết lỏng lưu thông khắp cơ thể, thực hiện ba nhóm chức năng sinh lý cốt lõi:\n- **Vận chuyển (A):** Vận chuyển khí (O2, CO2), chất dinh dưỡng, hormone, các ion và nhiệt độ đến các mô, đồng thời đưa chất đào thải đến phổi, thận.\n- **Bảo vệ (C):** Nhờ hệ thống bạch cầu (thực bào, miễn dịch dịch thể và tế bào) tiêu diệt tác nhân lạ, cùng tiểu cầu và các yếu tố đông máu giúp cầm máu khi tổn thương mạch máu.\n- **Điều hòa (D):** Điều hòa thăng bằng nước - điện giải, duy trì pH huyết tương (hệ đệm bicarbonate, phosphate, proteinate) và điều hòa thân nhiệt toàn thân.\n- **Chống đỡ (B)** là chức năng cơ học của hệ cơ và hệ xương nâng đỡ hình dạng cơ thể, không phải vai trò của máu."
   },
   {
     "id": 209,
@@ -5820,7 +5820,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Hematocrit (Ht/Hct - thể tích hồng cầu lắng)** được định nghĩa là tỷ lệ phần trăm thể tích của **hồng cầu** trên tổng thể tích máu toàn phần của mẫu xét nghiệm. \n- Do hồng cầu chiếm hơn 99% tổng thể tích các tế bào máu (bạch cầu và tiểu cầu chiếm chưa đầy 1%), nên giá trị Hematocrit phản ánh trực tiếp và chính xác thể tích hồng cầu chiếm chỗ trong máu toàn phần (Đáp án D). \n- Chỉ số bình thường ở nam giới khỏe mạnh là khoảng 40 - 50%, ở nữ giới là 37 - 48%."
+    "explanation": "- **Hematocrit (Ht/Hct - thể tích hồng cầu lắng)** được định nghĩa là tỷ lệ phần trăm thể tích của **hồng cầu** trên tổng thể tích máu toàn phần của mẫu xét nghiệm.\n- Do hồng cầu chiếm hơn 99% tổng thể tích các tế bào máu (bạch cầu và tiểu cầu chiếm chưa đầy 1%), nên giá trị Hematocrit phản ánh trực tiếp và chính xác thể tích hồng cầu chiếm chỗ trong máu toàn phần (Đáp án D).\n- Chỉ số bình thường ở nam giới khỏe mạnh là khoảng 40 - 50%, ở nữ giới là 37 - 48%."
   },
   {
     "id": 210,
@@ -5847,7 +5847,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Ở người trưởng thành khỏe mạnh, số lượng hồng cầu ở nam (khoảng 4.2 - 5.4 T/l) thường cao hơn ở nữ (khoảng 3.8 - 4.8 T/l).\n- Sự khác biệt này chủ yếu là do hormone sinh dục nam **Testosterone** có nồng độ cao ở nam giới và rất thấp ở nữ giới. Testosterone có tác dụng sinh hồng cầu mạnh mẽ thông qua hai cơ chế:\n  1. Kích thích tế bào kẽ thận tăng tổng hợp và bài tiết **Erythropoietin (EPO)** - hormone kích tạo hồng cầu.\n  2. Kích thích trực tiếp các tế bào gốc tạo máu trong tủy xương tăng phân chia tạo dòng hồng cầu.\n- Ngoài ra, chu kỳ kinh nguyệt mất máu hàng tháng ở nữ giới cũng là yếu tố phụ trợ."
+    "explanation": "- Ở người trưởng thành khỏe mạnh, số lượng hồng cầu ở nam (khoảng 4.2 - 5.4 T/l) thường cao hơn ở nữ (khoảng 3.8 - 4.8 T/l).\n- Sự khác biệt này chủ yếu là do hormone sinh dục nam **Testosterone** có nồng độ cao ở nam giới và rất thấp ở nữ giới. Testosterone có tác dụng sinh hồng cầu mạnh mẽ thông qua hai cơ chế:\n1. Kích thích tế bào kẽ thận tăng tổng hợp và bài tiết **Erythropoietin (EPO)** - hormone kích tạo hồng cầu.\n2. Kích thích trực tiếp các tế bào gốc tạo máu trong tủy xương tăng phân chia tạo dòng hồng cầu.\n- Ngoài ra, chu kỳ kinh nguyệt mất máu hàng tháng ở nữ giới cũng là yếu tố phụ trợ."
   },
   {
     "id": 211,
@@ -5866,7 +5866,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Hemoglobin (Hb - huyết sắc tố)** ở người trưởng thành bình thường (chủ yếu là HbA) là một protein phức tạp (chromoprotein) gồm cấu trúc bậc bốn với 4 tiểu đơn vị. \n- Mỗi tiểu đơn vị cấu tạo gồm **1 nhân hem** (chứa sắt hóa trị hai Fe2+ ở trung tâm) liên kết với **1 chuỗi polypeptide** (globin). Do đó phân tử Hb hoàn chỉnh được cấu thành từ **4 nhân hem và 4 chuỗi polypeptide** (2 chuỗi alpha và 2 chuỗi beta)."
+    "explanation": "- **Hemoglobin (Hb - huyết sắc tố)** ở người trưởng thành bình thường (chủ yếu là HbA) là một protein phức tạp (chromoprotein) gồm cấu trúc bậc bốn với 4 tiểu đơn vị.\n- Mỗi tiểu đơn vị cấu tạo gồm **1 nhân hem** (chứa sắt hóa trị hai Fe2+ ở trung tâm) liên kết với **1 chuỗi polypeptide** (globin). Do đó phân tử Hb hoàn chỉnh được cấu thành từ **4 nhân hem và 4 chuỗi polypeptide** (2 chuỗi alpha và 2 chuỗi beta)."
   },
   {
     "id": 212,
@@ -5885,7 +5885,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Hem** là một sắc tố hữu cơ chứa kim loại. Cấu trúc của nhân hem gồm một phân tử **protoporphyrin IX (vòng porphyrin)** liên kết phối trí ở trung tâm với một **ion sắt hóa trị hai (Fe2+)**. \n- Ion Fe2+ này có 6 liên kết phối trí: 4 liên kết với các nguyên tử nitơ của vòng porphyrin, 1 liên kết với chuỗi globin, và 1 liên kết lỏng lẻo, thuận nghịch với phân tử oxy (O2). Nếu Fe2+ bị oxy hóa thành Fe3+ (Methemoglobin), nó sẽ mất khả năng vận chuyển oxy."
+    "explanation": "- **Hem** là một sắc tố hữu cơ chứa kim loại. Cấu trúc của nhân hem gồm một phân tử **protoporphyrin IX (vòng porphyrin)** liên kết phối trí ở trung tâm với một **ion sắt hóa trị hai (Fe2+)**.\n- Ion Fe2+ này có 6 liên kết phối trí: 4 liên kết với các nguyên tử nitơ của vòng porphyrin, 1 liên kết với chuỗi globin, và 1 liên kết lỏng lẻo, thuận nghịch với phân tử oxy (O2). Nếu Fe2+ bị oxy hóa thành Fe3+ (Methemoglobin), nó sẽ mất khả năng vận chuyển oxy."
   },
   {
     "id": 213,
@@ -5912,7 +5912,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Hồng cầu có các chức năng sinh lý quan trọng:\n  - Vận chuyển khí O2 và CO2 nhờ hemoglobin (A).\n  - Quy định nhóm máu nhờ các glycoprotein kháng nguyên (như kháng nguyên A, B, D) cắm trên màng hồng cầu (B).\n  - Điều hòa thăng bằng axit - bazơ nhờ hệ đệm hemoglobin (Hb/KHb) chiếm dung tích đệm rất lớn trong máu (D).\n- **Vận chuyển kháng thể (C)** không phải chức năng của hồng cầu. Kháng thể (immunoglobulin) là các protein hòa tan tự do trong huyết tương do tương bào (plasma cells) tiết ra để tuần hoàn khắp cơ thể."
+    "explanation": "- Hồng cầu có các chức năng sinh lý quan trọng:\n- Vận chuyển khí O2 và CO2 nhờ hemoglobin (A).\n- Quy định nhóm máu nhờ các glycoprotein kháng nguyên (như kháng nguyên A, B, D) cắm trên màng hồng cầu (B).\n- Điều hòa thăng bằng axit - bazơ nhờ hệ đệm hemoglobin (Hb/KHb) chiếm dung tích đệm rất lớn trong máu (D).\n- **Vận chuyển kháng thể (C)** không phải chức năng của hồng cầu. Kháng thể (immunoglobulin) là các protein hòa tan tự do trong huyết tương do tương bào (plasma cells) tiết ra để tuần hoàn khắp cơ thể."
   },
   {
     "id": 214,
@@ -5938,8 +5938,8 @@ const QUESTIONS = [
         "text": "Gắn với Cl-"
       }
     ],
-    "answer": "?",
-    "explanation": "- C** hòa tan trong huyết tương nhờ phản ứng hóa hợp của CO2 và nước xúc tác bởi enzym carbonic anhydrase trong hồng cầu. Tuy nhiên, trong các phương án của câu hỏi này không có ion bicarbonate. Trong số các phương án được đưa ra, dạng **gắn với nhóm -NH2 của globin** (tạo carbaminohemoglobin - HbCO2) chiếm khoảng 23% là dạng nhiều nhất trong các phương án được liệt kê. Do đó chọn đáp án C và giải thích rõ bản chất thực tế)."
+    "answer": "C (Lưu ý: Nếu có phương án \"Ion Bicarbonate HCO3-\" thì đó mới là đáp án đúng nhất chiếm 70%).",
+    "explanation": "- Trong các phương án của câu hỏi này, dạng gắn với nhóm -NH2 của globin (C) (tạo thành carbaminohemoglobin) là dạng vận chuyển CO2 chiếm tỷ lệ cao nhất (khoảng 20-23%), cao hơn dạng hòa tan trong huyết tương (7%)."
   },
   {
     "id": 215,
@@ -5966,7 +5966,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Oxy được vận chuyển trong máu dưới hai dạng:\n  - Dạng hòa tan vật lý trong huyết tương: Chiếm tỷ lệ rất nhỏ (khoảng 1.5 - 3%).\n  - Dạng hóa hợp gắn với hemoglobin (**Oxyhemoglobin - HbO2**): Chiếm phần lớn tuyệt đối (**khoảng 97 - 98.5%**).\n- Phân tử O2 liên kết lỏng lẻo, thuận nghịch trực tiếp với **ion Fe2+ nằm ở trung tâm của nhân hem (D)** trong phân tử Hb, giúp giải phóng oxy dễ dàng khi đi đến các mô có phân áp oxy thấp."
+    "explanation": "- Oxy được vận chuyển trong máu dưới hai dạng:\n- Dạng hòa tan vật lý trong huyết tương: Chiếm tỷ lệ rất nhỏ (khoảng 1.5 - 3%).\n- Dạng hóa hợp gắn với hemoglobin (**Oxyhemoglobin - HbO2**): Chiếm phần lớn tuyệt đối (**khoảng 97 - 98.5%**).\n- Phân tử O2 liên kết lỏng lẻo, thuận nghịch trực tiếp với **ion Fe2+ nằm ở trung tâm của nhân hem (D)** trong phân tử Hb, giúp giải phóng oxy dễ dàng khi đi đến các mô có phân áp oxy thấp."
   },
   {
     "id": 216,
@@ -6020,7 +6020,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Quá trình tạo hồng cầu đòi hỏi đầy đủ các nguyên liệu:\n  - **Sắt (A):** Nguyên liệu thiết yếu để tổng hợp nhân hem. Thiếu sắt gây thiếu máu hồng cầu nhỏ nhược sắc.\n  - **Vitamin B12 (C)** và **Axit folic (B):** Cần thiết cho quá trình tổng hợp DNA để phân chia tế bào. Thiếu một trong hai chất này tế bào không nhân đôi được DNA nhưng bào tương vẫn phát triển, tạo nên các hồng cầu khổng lồ nhưng dễ vỡ (thiếu máu hồng cầu khổng lồ).\n- **Bilirubin (D)** là sắc tố mật sản sinh từ sự thoái hóa nhân hem khi hồng cầu già bị tiêu hủy ở hệ liên võng nội mô (gan, lách). Bilirubin là chất thải cần đào thải qua mật, hoàn toàn không tham gia tạo hồng cầu mới."
+    "explanation": "- Quá trình tạo hồng cầu đòi hỏi đầy đủ các nguyên liệu:\n- **Sắt (A):** Nguyên liệu thiết yếu để tổng hợp nhân hem. Thiếu sắt gây thiếu máu hồng cầu nhỏ nhược sắc.\n- **Vitamin B12 (C)** và **Axit folic (B):** Cần thiết cho quá trình tổng hợp DNA để phân chia tế bào. Thiếu một trong hai chất này tế bào không nhân đôi được DNA nhưng bào tương vẫn phát triển, tạo nên các hồng cầu khổng lồ nhưng dễ vỡ (thiếu máu hồng cầu khổng lồ).\n- **Bilirubin (D)** là sắc tố mật sản sinh từ sự thoái hóa nhân hem khi hồng cầu già bị tiêu hủy ở hệ liên võng nội mô (gan, lách). Bilirubin là chất thải cần đào thải qua mật, hoàn toàn không tham gia tạo hồng cầu mới."
   },
   {
     "id": 218,
@@ -6047,7 +6047,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Theo hệ nhóm máu ABO, tên nhóm máu được đặt theo tên của kháng nguyên có trên màng hồng cầu:\n  - Người nhóm máu B có **kháng nguyên B** trên màng hồng cầu.\n  - Cơ thể người này không sản xuất kháng thể chống lại kháng nguyên của bản thân để tránh tự ngưng kết, do đó trong huyết tương của họ sẽ chứa **kháng thể tự nhiên Anti-A (kháng thể A) (B)** chống lại kháng nguyên A."
+    "explanation": "- Theo hệ nhóm máu ABO, tên nhóm máu được đặt theo tên của kháng nguyên có trên màng hồng cầu:\n- Người nhóm máu B có **kháng nguyên B** trên màng hồng cầu.\n- Cơ thể người này không sản xuất kháng thể chống lại kháng nguyên của bản thân để tránh tự ngưng kết, do đó trong huyết tương của họ sẽ chứa **kháng thể tự nhiên Anti-A (kháng thể A) (B)** chống lại kháng nguyên A."
   },
   {
     "id": 219,
@@ -6074,7 +6074,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Khi truyền máu, nguyên tắc tối thiểu là không để kháng nguyên trên màng hồng cầu người cho bị ngưng kết bởi kháng thể trong huyết tương của người nhận.\n- Người nhận nhóm máu O trong huyết tương chứa cả hai loại **kháng thể Anti-A và Anti-B**. \n- Nếu truyền máu nhóm B (hồng cầu có kháng nguyên B) cho người nhóm máu O (D), kháng thể Anti-B của người nhận sẽ lập tức tấn công và gây ngưng kết hàng loạt hồng cầu B của người cho ngay trong lòng mạch, gây tắc mạch, tán huyết cấp tính nguy hiểm đến tính mạng. Do đó không được truyền máu B cho người nhóm O.\n- Người nhóm AB không có kháng thể Anti-A/Anti-B nên có thể nhận được máu B."
+    "explanation": "- Khi truyền máu, nguyên tắc tối thiểu là không để kháng nguyên trên màng hồng cầu người cho bị ngưng kết bởi kháng thể trong huyết tương của người nhận.\n- Người nhận nhóm máu O trong huyết tương chứa cả hai loại **kháng thể Anti-A và Anti-B**.\n- Nếu truyền máu nhóm B (hồng cầu có kháng nguyên B) cho người nhóm máu O (D), kháng thể Anti-B của người nhận sẽ lập tức tấn công và gây ngưng kết hàng loạt hồng cầu B của người cho ngay trong lòng mạch, gây tắc mạch, tán huyết cấp tính nguy hiểm đến tính mạng. Do đó không được truyền máu B cho người nhóm O.\n- Người nhóm AB không có kháng thể Anti-A/Anti-B nên có thể nhận được máu B."
   },
   {
     "id": 220,
@@ -6158,7 +6158,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Dựa trên sự có mặt của các hạt nhuộm màu đặc hiệu trong bào tương dưới kính hiển vi quang học, bạch cầu được chia thành hai nhóm:\n  - **Bạch cầu hạt (Granulocytes):** Bào tương có hạt đặc hiệu và nhân phân nhiều thùy, gồm: Bạch cầu trung tính (Neutrophils) (A), Bạch cầu ưa axit (Eosinophils) (D) và Bạch cầu ưa bazơ (Basophils) (B).\n  - **Bạch cầu không hạt (Agranulocytes):** Bào tương không chứa hạt đặc hiệu và nhân hình cầu hoặc hạt đậu lớn, gồm: **Bạch cầu Lympho (C)** và Bạch cầu Mono (Monocytes)."
+    "explanation": "- Dựa trên sự có mặt của các hạt nhuộm màu đặc hiệu trong bào tương dưới kính hiển vi quang học, bạch cầu được chia thành hai nhóm:\n- **Bạch cầu hạt (Granulocytes):** Bào tương có hạt đặc hiệu và nhân phân nhiều thùy, gồm: Bạch cầu trung tính (Neutrophils) (A), Bạch cầu ưa axit (Eosinophils) (D) và Bạch cầu ưa bazơ (Basophils) (B).\n- **Bạch cầu không hạt (Agranulocytes):** Bào tương không chứa hạt đặc hiệu và nhân hình cầu hoặc hạt đậu lớn, gồm: **Bạch cầu Lympho (C)** và Bạch cầu Mono (Monocytes)."
   },
   {
     "id": 224,
@@ -6231,7 +6231,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Bạch cầu trung tính (Neutrophil) là hàng rào bảo vệ đầu tiên của cơ thể chống nhiễm trùng nhờ các đặc tính hoạt động:\n  - **Bám mạch và xuyên mạch (B):** Có khả năng bám vào tế bào nội mạc mạch máu tại vùng viêm và len qua khe hở nội mạc để thoát ra mô kẽ.\n  - Vận động bằng chân giả và hóa hướng động đến ổ viêm.\n  - Khả năng thực bào vi khuẩn nhỏ, tuy nhiên công suất thực bào của mỗi bạch cầu trung tính khá hạn chế, chỉ khoảng **5 đến 20 vi khuẩn** rồi tự phân hủy chết tại chỗ tạo mủ (C sai). Đại thực bào mới có công suất thực bào lớn (khoảng 100 vi khuẩn).\n  - Khử độc protein lạ là vai trò của bạch cầu ưa acid (A sai)."
+    "explanation": "- Bạch cầu trung tính (Neutrophil) là hàng rào bảo vệ đầu tiên của cơ thể chống nhiễm trùng nhờ các đặc tính hoạt động:\n- **Bám mạch và xuyên mạch (B):** Có khả năng bám vào tế bào nội mạc mạch máu tại vùng viêm và len qua khe hở nội mạc để thoát ra mô kẽ.\n- Vận động bằng chân giả và hóa hướng động đến ổ viêm.\n- Khả năng thực bào vi khuẩn nhỏ, tuy nhiên công suất thực bào của mỗi bạch cầu trung tính khá hạn chế, chỉ khoảng **5 đến 20 vi khuẩn** rồi tự phân hủy chết tại chỗ tạo mủ (C sai). Đại thực bào mới có công suất thực bào lớn (khoảng 100 vi khuẩn).\n- Khử độc protein lạ là vai trò của bạch cầu ưa acid (A sai)."
   },
   {
     "id": 227,
@@ -6285,7 +6285,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Định luật Frank - Starling (Luật Starling) (D):** Phát biểu rằng trong giới hạn sinh lý, lực co bóp của sợi cơ tim tỷ lệ thuận với chiều dài sợi cơ trước khi co (tức là mức độ kéo căng của tâm thất cuối tâm trương). \n- Chiều dài sợi cơ trước khi co này được quyết định trực tiếp bởi **lượng máu tĩnh mạch đổ về tim**. Máu về tim càng nhiều làm tâm thất căng ra càng lớn, các cầu myosin và sợi actin trượt lên nhau ở vị trí tối ưu hơn, giúp tim co bóp càng mạnh để tống máu đi vào động mạch. Điều này giúp tim tự động thích ứng với sự thay đổi của lượng máu tĩnh mạch trở về."
+    "explanation": "- **Định luật Frank - Starling (Luật Starling) (D):** Phát biểu rằng trong giới hạn sinh lý, lực co bóp của sợi cơ tim tỷ lệ thuận với chiều dài sợi cơ trước khi co (tức là mức độ kéo căng của tâm thất cuối tâm trương).\n- Chiều dài sợi cơ trước khi co này được quyết định trực tiếp bởi **lượng máu tĩnh mạch đổ về tim**. Máu về tim càng nhiều làm tâm thất căng ra càng lớn, các cầu myosin và sợi actin trượt lên nhau ở vị trí tối ưu hơn, giúp tim co bóp càng mạnh để tống máu đi vào động mạch. Điều này giúp tim tự động thích ứng với sự thay đổi của lượng máu tĩnh mạch trở về."
   },
   {
     "id": 229,
@@ -6339,7 +6339,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Khoảng PQ (hoặc khoảng PR) (D):** Được tính từ đầu sóng P đến đầu phức bộ QRS. \n- Khoảng này đại diện cho khoảng thời gian cần thiết để xung động điện thế lan truyền từ nút xoang, làm khử cực toàn bộ cơ tâm nhĩ (biểu hiện qua sóng P) và tiếp tục đi qua đường liên nút đến dẫn truyền chậm qua **nút nhĩ thất (AV node)** cùng bó His trước khi bắt đầu kích hoạt khử cực tâm thất. Trị số bình thường của khoảng PQ là khoảng 0.12 đến 0.20 giây."
+    "explanation": "- **Khoảng PQ (hoặc khoảng PR) (D):** Được tính từ đầu sóng P đến đầu phức bộ QRS.\n- Khoảng này đại diện cho khoảng thời gian cần thiết để xung động điện thế lan truyền từ nút xoang, làm khử cực toàn bộ cơ tâm nhĩ (biểu hiện qua sóng P) và tiếp tục đi qua đường liên nút đến dẫn truyền chậm qua **nút nhĩ thất (AV node)** cùng bó His trước khi bắt đầu kích hoạt khử cực tâm thất. Trị số bình thường của khoảng PQ là khoảng 0.12 đến 0.20 giây."
   },
   {
     "id": 231,
@@ -6366,7 +6366,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Quá trình đổ đầy máu từ nhĩ xuống thất diễn ra hoàn toàn trong thời kỳ **tâm thất trương (giãn)** (B), bao gồm 3 giai đoạn nhỏ liên tiếp:\n  - Giai đoạn đổ đầy thất nhanh (thất giãn tạo áp suất âm hút máu về ồ ạt).\n  - Giai đoạn đổ đầy thất chậm.\n  - Giai đoạn **tâm nhĩ thu (co) (A)**: Tâm nhĩ co chủ động ở cuối thời kỳ tâm trương thất để bơm nốt 20 - 30% lượng máu cuối cùng xuống tâm thất.\n- Do đó, máu về tâm thất nhờ lực hút trong thời kỳ tâm thất trương và lực đẩy chủ động khi tâm nhĩ thu (Đáp án C)."
+    "explanation": "- Quá trình đổ đầy máu từ nhĩ xuống thất diễn ra hoàn toàn trong thời kỳ **tâm thất trương (giãn)** (B), bao gồm 3 giai đoạn nhỏ liên tiếp:\n- Giai đoạn đổ đầy thất nhanh (thất giãn tạo áp suất âm hút máu về ồ ạt).\n- Giai đoạn đổ đầy thất chậm.\n- Giai đoạn **tâm nhĩ thu (co) (A)**: Tâm nhĩ co chủ động ở cuối thời kỳ tâm trương thất để bơm nốt 20 - 30% lượng máu cuối cùng xuống tâm thất.\n- Do đó, máu về tâm thất nhờ lực hút trong thời kỳ tâm thất trương và lực đẩy chủ động khi tâm nhĩ thu (Đáp án C)."
   },
   {
     "id": 232,
@@ -6393,7 +6393,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Điểm đặc biệt của điện thế hoạt động cơ tim so với cơ xương là có **pha cao nguyên (phase 2) kéo dài**. Pha này được duy trì nhờ sự cân bằng giữa hai dòng ion đối nghịch:\n  - Sự mở của các **kênh calci chậm (L-type Ca2+ channels)** cho phép ion Ca2+ đi từ ngoài vào trong tế bào (mang điện tích dương vào).\n  - Đồng thời, màng tế bào cơ tim **giảm tính thấm đối với ion K+ (B)** (đóng bớt các kênh K+ rò rỉ), ngăn không cho ion K+ thoát ra ngoài tế bào.\n- Nhờ hai yếu tố này (Ca2+ dương đi vào và K+ dương không thoát ra), điện thế màng được giữ ổn định ở mức dương cao nguyên trong khoảng 0.2 - 0.3 giây trước khi kênh Ca2+ đóng hẳn và kênh K+ mở mạnh để tái cực."
+    "explanation": "- Điểm đặc biệt của điện thế hoạt động cơ tim so với cơ xương là có **pha cao nguyên (phase 2) kéo dài**. Pha này được duy trì nhờ sự cân bằng giữa hai dòng ion đối nghịch:\n- Sự mở của các **kênh calci chậm (L-type Ca2+ channels)** cho phép ion Ca2+ đi từ ngoài vào trong tế bào (mang điện tích dương vào).\n- Đồng thời, màng tế bào cơ tim **giảm tính thấm đối với ion K+ (B)** (đóng bớt các kênh K+ rò rỉ), ngăn không cho ion K+ thoát ra ngoài tế bào.\n- Nhờ hai yếu tố này (Ca2+ dương đi vào và K+ dương không thoát ra), điện thế màng được giữ ổn định ở mức dương cao nguyên trong khoảng 0.2 - 0.3 giây trước khi kênh Ca2+ đóng hẳn và kênh K+ mở mạnh để tái cực."
   },
   {
     "id": 233,
@@ -6458,7 +6458,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Huyết áp trung bình (Mean Arterial Pressure - MAP) (B):** Là trị số áp lực máu trung bình trong suốt một chu kỳ tim để tạo lực đẩy máu liên tục qua hệ mạch nuôi mô.\n- Do thời gian tim giãn (tâm trương) kéo dài gấp đôi thời gian tim co (tâm thu) ở nhịp tim bình thường, huyết áp trung bình được tính bằng công thức:\n  $$HA_{trung\\ bình} = HA_{tâm\\ trương} + \\frac{1}{3} (HA_{tâm\\ thu} - HA_{tâm\\ trương})$$\n  *(Trong đó: $HA_{tâm\\ thu} - HA_{tâm\\ trương}$ chính là HA hiệu số).*"
+    "explanation": "- **Huyết áp trung bình (Mean Arterial Pressure - MAP) (B):** Là trị số áp lực máu trung bình trong suốt một chu kỳ tim để tạo lực đẩy máu liên tục qua hệ mạch nuôi mô.\n- Do thời gian tim giãn (tâm trương) kéo dài gấp đôi thời gian tim co (tâm thu) ở nhịp tim bình thường, huyết áp trung bình được tính bằng công thức:\n$$HA_{trung\\ bình} = HA_{tâm\\ trương} + \\frac{1}{3} (HA_{tâm\\ thu} - HA_{tâm\\ trương})$$\n*(Trong đó: $HA_{tâm\\ thu} - HA_{tâm\\ trương}$ chính là HA hiệu số).*"
   },
   {
     "id": 236,
@@ -6485,7 +6485,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Van tim ngăn dòng máu chảy ngược bao gồm:\n  - Van nhĩ thất: Van 3 lá (bên phải), Van 2 lá (bên trái).\n  - Van tổ chim (van bán nguyệt): Van động mạch phổi (nối thất phải với động mạch phổi) và **Van động mạch chủ (D)** (nối tâm thất trái với động mạch chủ để tống máu giàu oxy đi nuôi cơ thể)."
+    "explanation": "- Van tim ngăn dòng máu chảy ngược bao gồm:\n- Van nhĩ thất: Van 3 lá (bên phải), Van 2 lá (bên trái).\n- Van tổ chim (van bán nguyệt): Van động mạch phổi (nối thất phải với động mạch phổi) và **Van động mạch chủ (D)** (nối tâm thất trái với động mạch chủ để tống máu giàu oxy đi nuôi cơ thể)."
   },
   {
     "id": 237,
@@ -6512,7 +6512,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Mao mạch (Capillaries) (D)** là những mạch máu nhỏ nhất và có cấu trúc mỏng nhất trong hệ tuần hoàn. \n- Thành mao mạch chỉ được cấu tạo từ một lớp tế bào nội mạc mỏng tựa trên màng đáy, đường kính lòng mạch cực nhỏ (khoảng 5 - 10 micromet, vừa đủ cho 1 hồng cầu đi qua hàng một). Đây là nơi duy nhất diễn ra sự trao đổi chất dinh dưỡng, khí và chất thải giữa máu và dịch kẽ tế bào."
+    "explanation": "- **Mao mạch (Capillaries) (D)** là những mạch máu nhỏ nhất và có cấu trúc mỏng nhất trong hệ tuần hoàn.\n- Thành mao mạch chỉ được cấu tạo từ một lớp tế bào nội mạc mỏng tựa trên màng đáy, đường kính lòng mạch cực nhỏ (khoảng 5 - 10 micromet, vừa đủ cho 1 hồng cầu đi qua hàng một). Đây là nơi duy nhất diễn ra sự trao đổi chất dinh dưỡng, khí và chất thải giữa máu và dịch kẽ tế bào."
   },
   {
     "id": 238,
@@ -6539,7 +6539,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Tim người là một khối cơ rỗng hoàn chỉnh được chia thành **4 buồng (C)**:\n  - 2 buồng phía trên thành mỏng: Tâm nhĩ phải (right atrium) và Tâm nhĩ trái (left atrium).\n  - 2 buồng phía dưới thành dày: Tâm thất phải (right ventricle) và Tâm thất trái (left ventricle)."
+    "explanation": "- Tim người là một khối cơ rỗng hoàn chỉnh được chia thành **4 buồng (C)**:\n- 2 buồng phía trên thành mỏng: Tâm nhĩ phải (right atrium) và Tâm nhĩ trái (left atrium).\n- 2 buồng phía dưới thành dày: Tâm thất phải (right ventricle) và Tâm thất trái (left ventricle)."
   },
   {
     "id": 239,
@@ -6674,7 +6674,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Động tác hít vào bình thường là động tác chủ động. Các cơ tham gia co để làm tăng thể tích lồng ngực gồm:\n  - **Cơ hoành:** Cơ hô hấp chính, khi co sẽ hạ thấp xuống làm tăng kích thước lồng ngực theo chiều dọc.\n  - **Cơ liên sườn ngoài (B):** Khi co kéo các xương sườn lên trên và ra ngoài, làm tăng đường kính trước - sau và đường kính ngang của lồng ngực.\n- Cơ liên sườn trong tham gia động tác thở ra gắng sức (A sai). Cơ ức đòn chũm, cơ răng cưa lớn là các cơ hô hấp phụ chỉ tham gia khi hít vào gắng sức (C, D sai)."
+    "explanation": "- Động tác hít vào bình thường là động tác chủ động. Các cơ tham gia co để làm tăng thể tích lồng ngực gồm:\n- **Cơ hoành:** Cơ hô hấp chính, khi co sẽ hạ thấp xuống làm tăng kích thước lồng ngực theo chiều dọc.\n- **Cơ liên sườn ngoài (B):** Khi co kéo các xương sườn lên trên và ra ngoài, làm tăng đường kính trước - sau và đường kính ngang của lồng ngực.\n- Cơ liên sườn trong tham gia động tác thở ra gắng sức (A sai). Cơ ức đòn chũm, cơ răng cưa lớn là các cơ hô hấp phụ chỉ tham gia khi hít vào gắng sức (C, D sai)."
   },
   {
     "id": 244,
@@ -6728,7 +6728,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Thở ra bình thường (B)** là một động tác hoàn toàn **thụ động**. \n- Khi trung tâm hô hấp ngừng phát tín hiệu kích thích, cơ hoành và cơ liên sườn ngoài giãn ra hoàn toàn. Nhờ lực co đàn hồi tự nhiên của nhu mô phổi và sức căng bề mặt phế nang kết hợp với sức nặng của lồng ngực, phổi co nhỏ lại làm tăng áp suất phế nang lên trên áp suất khí quyển, đẩy khí ra ngoài mà không cần co bất kỳ cơ hô hấp nào."
+    "explanation": "- **Thở ra bình thường (B)** là một động tác hoàn toàn **thụ động**.\n- Khi trung tâm hô hấp ngừng phát tín hiệu kích thích, cơ hoành và cơ liên sườn ngoài giãn ra hoàn toàn. Nhờ lực co đàn hồi tự nhiên của nhu mô phổi và sức căng bề mặt phế nang kết hợp với sức nặng của lồng ngực, phổi co nhỏ lại làm tăng áp suất phế nang lên trên áp suất khí quyển, đẩy khí ra ngoài mà không cần co bất kỳ cơ hô hấp nào."
   },
   {
     "id": 246,
@@ -6755,7 +6755,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Áp suất âm trong khoang màng phổi (intrapleural pressure) được tạo ra bởi:\n  - Phổi luôn có xu hướng co nhỏ lại do tính đàn hồi của nhu mô phổi, trong khi lồng ngực kín cứng có xu hướng giãn rộng ra. Sự giằng co giữa hai lực đối nghịch này tạo lực hút âm trong khoang màng phổi kín (B, C).\n  - Mạch bạch huyết liên tục hút dịch thừa ra khỏi khoang màng phổi để giữ khoang này chỉ có một lớp dịch mỏng, duy trì lực dính cơ học giữa hai lá (A).\n- **Chất hoạt diện (Surfactant) (D)** là chất trải trên bề mặt lớp dịch lót lòng **phế nang** để làm giảm sức căng bề mặt phế nang, không nằm trong khoang màng phổi và không tạo ra áp suất âm màng phổi."
+    "explanation": "- Áp suất âm trong khoang màng phổi (intrapleural pressure) được tạo ra bởi:\n- Phổi luôn có xu hướng co nhỏ lại do tính đàn hồi của nhu mô phổi, trong khi lồng ngực kín cứng có xu hướng giãn rộng ra. Sự giằng co giữa hai lực đối nghịch này tạo lực hút âm trong khoang màng phổi kín (B, C).\n- Mạch bạch huyết liên tục hút dịch thừa ra khỏi khoang màng phổi để giữ khoang này chỉ có một lớp dịch mỏng, duy trì lực dính cơ học giữa hai lá (A).\n- **Chất hoạt diện (Surfactant) (D)** là chất trải trên bề mặt lớp dịch lót lòng **phế nang** để làm giảm sức căng bề mặt phế nang, không nằm trong khoang màng phổi và không tạo ra áp suất âm màng phổi."
   },
   {
     "id": 247,
@@ -6782,7 +6782,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Chất hoạt diện (Surfactant) (B):** Là phức hợp lipoprotein (chủ yếu là dipalmitoylphosphatidylcholine - DPPC) do **tế bào biểu mô phế nang type II** bài tiết ra phủ lên lớp dịch phế nang.\n- Vai trò chính của nó là **làm giảm sức căng bề mặt phế nang (A sai)**, giúp phế nang nhỏ không bị xẹp và phế nang lớn không bị căng quá mức, duy trì tính ổn định của phế nang và giúp phổi giãn nở dễ dàng. \n- Chất này chỉ bắt đầu được sản xuất từ tuần thứ 24-28 của thai kỳ và đạt mức ổn định vào tháng cuối (D sai). Trẻ sinh non trước 32 tuần dễ bị hội chứng suy hô hấp cấp (SDR) do thiếu chất hoạt diện."
+    "explanation": "- **Chất hoạt diện (Surfactant) (B):** Là phức hợp lipoprotein (chủ yếu là dipalmitoylphosphatidylcholine - DPPC) do **tế bào biểu mô phế nang type II** bài tiết ra phủ lên lớp dịch phế nang.\n- Vai trò chính của nó là **làm giảm sức căng bề mặt phế nang (A sai)**, giúp phế nang nhỏ không bị xẹp và phế nang lớn không bị căng quá mức, duy trì tính ổn định của phế nang và giúp phổi giãn nở dễ dàng.\n- Chất này chỉ bắt đầu được sản xuất từ tuần thứ 24-28 của thai kỳ và đạt mức ổn định vào tháng cuối (D sai). Trẻ sinh non trước 32 tuần dễ bị hội chứng suy hô hấp cấp (SDR) do thiếu chất hoạt diện."
   },
   {
     "id": 248,
@@ -6862,8 +6862,8 @@ const QUESTIONS = [
         "text": "Thở ra hết sức sau khi thở ra bình thường"
       }
     ],
-    "answer": "?",
-    "explanation": "- B. Do đó nó là khoảng thể tích từ mức hít vào tối đa đến mức thở ra tối đa, tương đương hít vào hết sức và thở ra hết sức).\n**Giải thích chi tiết:**\n- **VC (Vital Capacity - Dung tích sống) (B):** Là chỉ số phản ánh khả năng giãn nở tối đa của lồng ngực và phổi.\n- Công thức tính: $VC = I_RV + V_T + E_RV$ (Thể tích dự trữ hít vào + Thể tích lưu thông + Thể tích dự trữ thở ra)."
+    "answer": "B",
+    "explanation": "- VC (Vital Capacity - Dung tích sống) (B) là toàn bộ lượng không khí tối đa mà một người có thể huy động được. Do đó, nó là thể tích khí thu được khi thực hiện hít vào hết sức và thở ra hết sức."
   },
   {
     "id": 251,
@@ -6917,7 +6917,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- **Hội chứng tắc nghẽn (Obstructive defect)** xảy ra khi đường dẫn khí bị hẹp (như hen phế quản, COPD).\n- Được chẩn đoán dựa vào sự suy giảm tốc độ dòng khí thở ra, thể hiện qua các thông số:\n  - **$FEV_1$:** Thể tích khí thở ra tối đa trong giây đầu tiên.\n  - **Chỉ số Tiffeneau ($FEV_1/VC$)** hoặc chỉ số Gaensler ($FEV_1/FVC$) giảm dưới 70%."
+    "explanation": "- **Hội chứng tắc nghẽn (Obstructive defect)** xảy ra khi đường dẫn khí bị hẹp (như hen phế quản, COPD).\n- Được chẩn đoán dựa vào sự suy giảm tốc độ dòng khí thở ra, thể hiện qua các thông số:\n- **$FEV_1$:** Thể tích khí thở ra tối đa trong giây đầu tiên.\n- **Chỉ số Tiffeneau ($FEV_1/VC$)** hoặc chỉ số Gaensler ($FEV_1/FVC$) giảm dưới 70%."
   },
   {
     "id": 253,
@@ -6948,7 +6948,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "E",
-    "explanation": "- Hệ tiết niệu đóng vai trò sống còn trong cơ thể qua các chức năng:\n  - **Bài tiết chất thải (B):** Lọc máu đào thải urea, creatinine, axit uric, các chất độc hại ra nước tiểu.\n  - **Duy trì cân bằng nội môi, chất lỏng, chất điện giải và pH (A, D):** Bằng cách điều hòa lượng nước tái hấp thu và bài tiết các ion (Na+, K+, Cl-, H+, HCO3-).\n  - **Chức năng nội tiết (C):** Tiết hormone **Erythropoietin** kích thích tủy xương sản xuất hồng cầu; tiết **Renin** tham gia hệ RAAS điều hòa huyết áp; hoạt hóa Vitamin D3 giúp hấp thu canxi ở ruột.\n- Do đó, cả A, B, C, D đều đúng (Đáp án E)."
+    "explanation": "- Hệ tiết niệu đóng vai trò sống còn trong cơ thể qua các chức năng:\n- **Bài tiết chất thải (B):** Lọc máu đào thải urea, creatinine, axit uric, các chất độc hại ra nước tiểu.\n- **Duy trì cân bằng nội môi, chất lỏng, chất điện giải và pH (A, D):** Bằng cách điều hòa lượng nước tái hấp thu và bài tiết các ion (Na+, K+, Cl-, H+, HCO3-).\n- **Chức năng nội tiết (C):** Tiết hormone **Erythropoietin** kích thích tủy xương sản xuất hồng cầu; tiết **Renin** tham gia hệ RAAS điều hòa huyết áp; hoạt hóa Vitamin D3 giúp hấp thu canxi ở ruột.\n- Do đó, cả A, B, C, D đều đúng (Đáp án E)."
   },
   {
     "id": 254,
@@ -6975,7 +6975,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- **Nephron (B)** là đơn vị cấu trúc và chức năng cơ bản của thận. Mỗi quả thận người chứa khoảng 1 triệu nephron. \n- Mỗi nephron hoạt động như một đơn vị độc lập có đầy đủ khả năng thực hiện 3 quá trình cơ bản để tạo thành nước tiểu: lọc ở cầu thận, tái hấp thu ở ống thận và bài tiết ở ống thận.\n- Cầu thận (A), quai Henle (D), hay mao mạch quanh ống (C) chỉ là các bộ phận cấu thành nên một nephron hoàn chỉnh, không thể tự thực hiện toàn bộ quá trình tạo nước tiểu độc lập."
+    "explanation": "- **Nephron (B)** là đơn vị cấu trúc và chức năng cơ bản của thận. Mỗi quả thận người chứa khoảng 1 triệu nephron.\n- Mỗi nephron hoạt động như một đơn vị độc lập có đầy đủ khả năng thực hiện 3 quá trình cơ bản để tạo thành nước tiểu: lọc ở cầu thận, tái hấp thu ở ống thận và bài tiết ở ống thận.\n- Cầu thận (A), quai Henle (D), hay mao mạch quanh ống (C) chỉ là các bộ phận cấu thành nên một nephron hoàn chỉnh, không thể tự thực hiện toàn bộ quá trình tạo nước tiểu độc lập."
   },
   {
     "id": 255,
@@ -7002,7 +7002,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Thận (Kidneys) (C)** là cơ quan lọc máu chính, bài tiết nước tiểu chứa các chất cặn bã chuyển hóa. \n- Thận tham gia điều hòa huyết áp dài hạn của cơ thể thông qua hai cơ chế chính:\n  1. Điều chỉnh thể tích dịch ngoại bào (bằng cách thay đổi lượng muối và nước đào thải).\n  2. Bài tiết enzym **Renin** kích hoạt hệ Renin-Angiotensin-Aldosterone (RAAS) gây co mạch và giữ muối nước làm tăng huyết áp khi huyết áp giảm."
+    "explanation": "- **Thận (Kidneys) (C)** là cơ quan lọc máu chính, bài tiết nước tiểu chứa các chất cặn bã chuyển hóa.\n- Thận tham gia điều hòa huyết áp dài hạn của cơ thể thông qua hai cơ chế chính:\n1. Điều chỉnh thể tích dịch ngoại bào (bằng cách thay đổi lượng muối và nước đào thải).\n2. Bài tiết enzym **Renin** kích hoạt hệ Renin-Angiotensin-Aldosterone (RAAS) gây co mạch và giữ muối nước làm tăng huyết áp khi huyết áp giảm."
   },
   {
     "id": 256,
@@ -7029,7 +7029,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Thận là cơ quan đôi nằm ở thành sau của **khoang bụng (B)**, nằm hai bên cột sống lưng (từ đốt sống ngực T12 đến thắt lưng L3). \n- Thận nằm ngoài ổ phúc mạc, áp sát vào cơ thành bụng sau, được bao bọc bởi bao xơ và lớp mỡ quanh thận."
+    "explanation": "- Thận là cơ quan đôi nằm ở thành sau của **khoang bụng (B)**, nằm hai bên cột sống lưng (từ đốt sống ngực T12 đến thắt lưng L3).\n- Thận nằm ngoài ổ phúc mạc, áp sát vào cơ thành bụng sau, được bao bọc bởi bao xơ và lớp mỡ quanh thận."
   },
   {
     "id": 257,
@@ -7056,7 +7056,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Ống lượn gần (Proximal convoluted tubule) (C)** là nơi diễn ra quá trình tái hấp thu mạnh mẽ nhất của hệ thống ống thận. \n- Tại đây, khoảng **65% lượng nước** và ion Na+ được lọc qua cầu thận sẽ được tái hấp thu chủ động và thụ động trở lại dòng máu. Do tính thấm nước của tế bào biểu mô ống lượn gần rất cao, nước khuếch tán thẩm thấu rất nhanh theo lực kéo của Na+ và các chất dinh dưỡng được tái hấp thu."
+    "explanation": "- **Ống lượn gần (Proximal convoluted tubule) (C)** là nơi diễn ra quá trình tái hấp thu mạnh mẽ nhất của hệ thống ống thận.\n- Tại đây, khoảng **65% lượng nước** và ion Na+ được lọc qua cầu thận sẽ được tái hấp thu chủ động và thụ động trở lại dòng máu. Do tính thấm nước của tế bào biểu mô ống lượn gần rất cao, nước khuếch tán thẩm thấu rất nhanh theo lực kéo của Na+ và các chất dinh dưỡng được tái hấp thu."
   },
   {
     "id": 258,
@@ -7110,7 +7110,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Trong thực hành lâm sàng thận - tiết niệu:\n  - **Vô niệu (Anuria) (B):** Được định nghĩa khi lượng nước tiểu của bệnh nhân thải ra **dưới 100 mL/24 giờ** (hoặc thực tế lâm sàng cấp cứu định nghĩa dưới 50 mL/24 giờ ở người lớn), phản ánh tình trạng ngừng lọc cầu thận hoặc tắc nghẽn hoàn toàn đường niệu hai bên.\n  - *Thiểu niệu (Oliguria):* Lượng nước tiểu dưới 400 - 500 mL/24 giờ ở người lớn.\n  - *Khó tiểu (Dysuria) (A):* Cảm giác đau buốt, khó khăn khi đi tiểu."
+    "explanation": "- Trong thực hành lâm sàng thận - tiết niệu:\n- **Vô niệu (Anuria) (B):** Được định nghĩa khi lượng nước tiểu của bệnh nhân thải ra **dưới 100 mL/24 giờ** (hoặc thực tế lâm sàng cấp cứu định nghĩa dưới 50 mL/24 giờ ở người lớn), phản ánh tình trạng ngừng lọc cầu thận hoặc tắc nghẽn hoàn toàn đường niệu hai bên.\n- *Thiểu niệu (Oliguria):* Lượng nước tiểu dưới 400 - 500 mL/24 giờ ở người lớn.\n- *Khó tiểu (Dysuria) (A):* Cảm giác đau buốt, khó khăn khi đi tiểu."
   },
   {
     "id": 260,
@@ -7191,7 +7191,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Hệ thần kinh tự chủ điều hòa hoạt động của ống tiêu hóa:\n  - **Hệ phó giao cảm (dây X):** Kích thích hoạt động tiêu hóa (tăng nhu động ruột, giãn các cơ thắt và tăng bài tiết dịch vị).\n  - **Hệ giao cảm:** Ức chế hoạt động tiêu hóa để ưu tiên năng lượng cho các cơ quan sinh tồn khi gặp stress (phản ứng chiến đấu hay bỏ chạy). Kích thích giao cảm gây co các mạch máu đến ruột, làm **giảm nhu động ruột do ức chế cơ trơn thành ruột (C)** và làm co các cơ thắt."
+    "explanation": "- Hệ thần kinh tự chủ điều hòa hoạt động của ống tiêu hóa:\n- **Hệ phó giao cảm (dây X):** Kích thích hoạt động tiêu hóa (tăng nhu động ruột, giãn các cơ thắt và tăng bài tiết dịch vị).\n- **Hệ giao cảm:** Ức chế hoạt động tiêu hóa để ưu tiên năng lượng cho các cơ quan sinh tồn khi gặp stress (phản ứng chiến đấu hay bỏ chạy). Kích thích giao cảm gây co các mạch máu đến ruột, làm **giảm nhu động ruột do ức chế cơ trơn thành ruột (C)** và làm co các cơ thắt."
   },
   {
     "id": 263,
@@ -7218,7 +7218,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Cấu tạo lớp cơ của thực quản thay đổi dọc theo chiều dài của nó:\n  - **1/3 trên thực quản:** Thành phần cơ hoàn toàn là **cơ vân (cơ xương) (A)** nhạy cảm với điều khiển của ý thức trong hoạt động nuốt.\n  - **1/3 giữa thực quản:** Là vùng chuyển tiếp chứa cả cơ vân và cơ trơn.\n  - **1/3 dưới thực quản:** Chỉ chứa cơ trơn hoạt động tự động."
+    "explanation": "- Cấu tạo lớp cơ của thực quản thay đổi dọc theo chiều dài của nó:\n- **1/3 trên thực quản:** Thành phần cơ hoàn toàn là **cơ vân (cơ xương) (A)** nhạy cảm với điều khiển của ý thức trong hoạt động nuốt.\n- **1/3 giữa thực quản:** Là vùng chuyển tiếp chứa cả cơ vân và cơ trơn.\n- **1/3 dưới thực quản:** Chỉ chứa cơ trơn hoạt động tự động."
   },
   {
     "id": 264,
@@ -7272,7 +7272,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Dịch vị dạ dày chứa axit HCl và enzym **Pepsin**. Pepsin là enzym tiêu hóa protein (**chất đạm**) hoạt động tối ưu ở pH axit mạnh (1.8 - 2.0). \n- Nó cắt các liên kết peptide của chuỗi protein dài thành các chuỗi peptide ngắn hơn (proteose, peptone). Dạ dày hầu như không tiêu hóa glucid và tiêu hóa lipid rất kém (chỉ có lipase dịch vị hoạt động yếu lên mỡ đã nhũ tương hóa sẵn như mỡ sữa/trứng)."
+    "explanation": "- Dịch vị dạ dày chứa axit HCl và enzym **Pepsin**. Pepsin là enzym tiêu hóa protein (**chất đạm**) hoạt động tối ưu ở pH axit mạnh (1.8 - 2.0).\n- Nó cắt các liên kết peptide của chuỗi protein dài thành các chuỗi peptide ngắn hơn (proteose, peptone). Dạ dày hầu như không tiêu hóa glucid và tiêu hóa lipid rất kém (chỉ có lipase dịch vị hoạt động yếu lên mỡ đã nhũ tương hóa sẵn như mỡ sữa/trứng)."
   },
   {
     "id": 266,
@@ -7299,7 +7299,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Môi trường axit dịch vị dạ dày (pH ~ 2.0) có vai trò:\n  - Kích hoạt tiền enzym pepsinogen (không hoạt động) thành enzym **Pepsin** hoạt động để tiêu hóa **protein (chất đạm)**.\n  - Môi trường axit mạnh này đồng thời làm biến tính cấu trúc protein và gây bất hoạt hoàn toàn enzym **Amylase** nước bọt (enzym tiêu hóa **tinh bột** vốn chỉ hoạt động ở pH trung tính từ miệng trôi xuống). Do đó, chọn đáp án B."
+    "explanation": "- Môi trường axit dịch vị dạ dày (pH ~ 2.0) có vai trò:\n- Kích hoạt tiền enzym pepsinogen (không hoạt động) thành enzym **Pepsin** hoạt động để tiêu hóa **protein (chất đạm)**.\n- Môi trường axit mạnh này đồng thời làm biến tính cấu trúc protein và gây bất hoạt hoàn toàn enzym **Amylase** nước bọt (enzym tiêu hóa **tinh bột** vốn chỉ hoạt động ở pH trung tính từ miệng trôi xuống). Do đó, chọn đáp án B."
   },
   {
     "id": 267,
@@ -7352,8 +7352,8 @@ const QUESTIONS = [
         "text": "Chymotrypsin"
       }
     ],
-    "answer": "?",
-    "explanation": "- D.\n**Giải thích chi tiết:**\n- Tuyến tụy ngoại tiết tiết ra dịch tụy chứa đầy đủ các enzyme tiêu hóa cho cả 3 nhóm chất dinh dưỡng lớn:\n  - Tiêu hóa glucid: Amylase tụy hoạt động (A).\n  - Tiêu hóa lipid: Lipase tụy hoạt động (B).\n  - Tiêu hóa axit nucleic: Nucleases hoạt động (Ribonuclease và Deoxyribonuclease) (C).\n  - Tiêu hóa protein: Được tiết dưới dạng tiền chất không hoạt động gồm Trypsinogen, Chymotrypsinogen và Procarboxypeptidase. Chỉ khi đi vào tá tràng dưới sự hoạt hóa của enterokinase ruột và trypsin, chymotrypsinogen mới chuyển thành **Chymotrypsin** hoạt động (D). Do đó, chymotrypsin nguyên bản không tồn tại trong dịch tụy tại tuyến (Đáp án D)."
+    "answer": "D",
+    "explanation": "- Tuyến tụy tiết ra enzyme tiêu hóa protein dưới dạng tiền chất bất hoạt (zymogen) là Trypsinogen và Chymotrypsinogen. Chỉ khi đổ vào tá tràng, chúng mới bị cắt để biến thành enzyme hoạt động. Do đó, Chymotrypsin (D) (dạng đã hoạt động) không tồn tại sẵn trong thành phần dịch tụy tiết ra từ tuyến."
   },
   {
     "id": 269,
@@ -7434,7 +7434,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Trong hệ sinh dục nam:\n  - **Tuyến tiền liệt (Prostate gland) (D):** Là một tuyến đơn, chỉ có một tuyến duy nhất bao quanh phần niệu đạo tiền liệt tuyến ngay sát dưới cổ bàng quang.\n  - *Túi tinh (Seminal vesicles) (A), Ống dẫn tinh (Ductus deferens) (B), Tuyến hành niệu đạo (Cowper's gland) (C):* Đều là các cấu trúc đôi xếp đối xứng hai bên cơ thể."
+    "explanation": "- Trong hệ sinh dục nam:\n- **Tuyến tiền liệt (Prostate gland) (D):** Là một tuyến đơn, chỉ có một tuyến duy nhất bao quanh phần niệu đạo tiền liệt tuyến ngay sát dưới cổ bàng quang.\n- *Túi tinh (Seminal vesicles) (A), Ống dẫn tinh (Ductus deferens) (B), Tuyến hành niệu đạo (Cowper's gland) (C):* Đều là các cấu trúc đôi xếp đối xứng hai bên cơ thể."
   },
   {
     "id": 272,
@@ -7461,7 +7461,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- Quá trình sinh tinh (spermatogenesis) diễn ra tại ống sinh tinh của tinh hoàn. Các tế bào dòng tinh phát triển theo thứ tự từ ngoài màng đáy hướng dần vào lòng ống:\n  - **Tinh nguyên bào (Spermatogonia) (A):** Tế bào mầm chưa biệt hóa lưỡng bội (2n), nằm sát màng đáy. Chúng nhân phân nguyên phân để duy trì số lượng tế bào mầm và tạo ra tinh bào I.\n  - *Tinh bào I (Tế bào sinh tinh sơ cấp) (B)* -> *Tinh bào II (Tế bào sinh tinh thứ cấp) (C)* (qua giảm phân I) -> *Tiền tinh trùng (Spermatid)* (qua giảm phân II) -> *Tinh trùng (Spermatzoon) (D)* (trải qua biệt hóa hình thái)."
+    "explanation": "- Quá trình sinh tinh (spermatogenesis) diễn ra tại ống sinh tinh của tinh hoàn. Các tế bào dòng tinh phát triển theo thứ tự từ ngoài màng đáy hướng dần vào lòng ống:\n- **Tinh nguyên bào (Spermatogonia) (A):** Tế bào mầm chưa biệt hóa lưỡng bội (2n), nằm sát màng đáy. Chúng nhân phân nguyên phân để duy trì số lượng tế bào mầm và tạo ra tinh bào I.\n- *Tinh bào I (Tế bào sinh tinh sơ cấp) (B)* -> *Tinh bào II (Tế bào sinh tinh thứ cấp) (C)* (qua giảm phân I) -> *Tiền tinh trùng (Spermatid)* (qua giảm phân II) -> *Tinh trùng (Spermatzoon) (D)* (trải qua biệt hóa hình thái)."
   },
   {
     "id": 273,
@@ -7488,7 +7488,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Tinh trùng sau khi được sản xuất ở ống sinh tinh sẽ di chuyển theo các ống xuất đến **mào tinh hoàn (Epididymis) (C)**. \n- Mào tinh hoàn là nơi **lưu trữ tinh trùng chủ yếu** (tinh trùng có thể tồn tại ở đây vài tuần). Tại đây tinh trùng hoàn thiện nốt chức năng di động của chúng.\n- Túi tinh không lưu trữ tinh trùng mà có chức năng chế tiết dịch túi tinh (chiếm 60% thể tích tinh dịch)."
+    "explanation": "- Tinh trùng sau khi được sản xuất ở ống sinh tinh sẽ di chuyển theo các ống xuất đến **mào tinh hoàn (Epididymis) (C)**.\n- Mào tinh hoàn là nơi **lưu trữ tinh trùng chủ yếu** (tinh trùng có thể tồn tại ở đây vài tuần). Tại đây tinh trùng hoàn thiện nốt chức năng di động của chúng.\n- Túi tinh không lưu trữ tinh trùng mà có chức năng chế tiết dịch túi tinh (chiếm 60% thể tích tinh dịch)."
   },
   {
     "id": 274,
@@ -7542,7 +7542,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Testosterone (C)** là hormone sinh dục nam chính (androgen) do tế bào Leydig ở tinh hoàn tiết ra. \n- Nó chịu trách nhiệm hình thành bộ phận sinh dục nam trong phôi thai, thúc đẩy sinh tinh ở tuổi dậy thì và **phát triển, duy trì các đặc tính sinh dục phụ thứ cấp** ở nam giới (giọng trầm, cơ bắp phát triển, mọc râu, lông mu, vai rộng, da dày, tăng ham muốn tình dục).\n- GnRH (D) điều hòa FSH và LH. LH (ở nam gọi là ICSH - A) kích thích tiết testosterone. FSH (B) kích thích sinh tinh."
+    "explanation": "- **Testosterone (C)** là hormone sinh dục nam chính (androgen) do tế bào Leydig ở tinh hoàn tiết ra.\n- Nó chịu trách nhiệm hình thành bộ phận sinh dục nam trong phôi thai, thúc đẩy sinh tinh ở tuổi dậy thì và **phát triển, duy trì các đặc tính sinh dục phụ thứ cấp** ở nam giới (giọng trầm, cơ bắp phát triển, mọc râu, lông mu, vai rộng, da dày, tăng ham muốn tình dục).\n- GnRH (D) điều hòa FSH và LH. LH (ở nam gọi là ICSH - A) kích thích tiết testosterone. FSH (B) kích thích sinh tinh."
   },
   {
     "id": 276,
@@ -7731,7 +7731,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Buồng trứng (Ovary) (A)** ở nữ giới tương đồng với **tinh hoàn (Testes)** ở nam giới về mặt phôi thai học. \n- Cả hai cơ quan đều là các tuyến sinh dục (gonads), vừa đảm nhận chức năng ngoại tiết (sản xuất giao tử: trứng ở nữ và tinh trùng ở nam) vừa đảm nhận chức năng nội tiết (tiết hormone sinh dục: estrogen/progesterone ở nữ và testosterone ở nam)."
+    "explanation": "- **Buồng trứng (Ovary) (A)** ở nữ giới tương đồng với **tinh hoàn (Testes)** ở nam giới về mặt phôi thai học.\n- Cả hai cơ quan đều là các tuyến sinh dục (gonads), vừa đảm nhận chức năng ngoại tiết (sản xuất giao tử: trứng ở nữ và tinh trùng ở nam) vừa đảm nhận chức năng nội tiết (tiết hormone sinh dục: estrogen/progesterone ở nữ và testosterone ở nam)."
   },
   {
     "id": 283,
@@ -7920,7 +7920,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "D",
-    "explanation": "- Nội mạc tử cung gồm hai lớp chính:\n  - **Lớp chức năng (Stratum functionalism) (D):** Nằm phía trên, chứa các tuyến tử cung và hệ mạch máu xoắn rất nhạy cảm với sự thay đổi của hormone sinh dục. Khi thể vàng thoái hóa làm progesterone và estrogen sụt giảm đột ngột, lớp mạch máu xoắn co thắt gây hoại tử và **bong ra từng mảng** cùng với máu tạo nên hiện tượng hành kinh.\n  - *Lớp đáy (Stratum basalis):* Nằm dưới sát lớp cơ tử cung, không bị bong ra và có nhiệm vụ phân chia tái sinh lớp chức năng mới cho chu kỳ tiếp theo."
+    "explanation": "- Nội mạc tử cung gồm hai lớp chính:\n- **Lớp chức năng (Stratum functionalism) (D):** Nằm phía trên, chứa các tuyến tử cung và hệ mạch máu xoắn rất nhạy cảm với sự thay đổi của hormone sinh dục. Khi thể vàng thoái hóa làm progesterone và estrogen sụt giảm đột ngột, lớp mạch máu xoắn co thắt gây hoại tử và **bong ra từng mảng** cùng với máu tạo nên hiện tượng hành kinh.\n- *Lớp đáy (Stratum basalis):* Nằm dưới sát lớp cơ tử cung, không bị bong ra và có nhiệm vụ phân chia tái sinh lớp chức năng mới cho chu kỳ tiếp theo."
   },
   {
     "id": 290,
@@ -7947,7 +7947,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- **Progesterone (C)** (hormone thai nghén) phối hợp với estrogen làm biến đổi nội mạc tử cung đã được kích thích trước đó:\n  - Kích thích tuyến nội mạc phát triển dài ra, ngoằn ngoèo và tăng bài tiết dịch giàu chất dinh dưỡng (glycogen).\n  - Tăng sinh các động mạch xoắn nuôi dưỡng lớp chức năng làm **nội mạc tử cung dày lên**, mềm xốp hơn.\n  - Ức chế co bóp cơ tử cung để giữ tử cung yên tĩnh.\n- Mục đích chính là chuẩn bị điều kiện tốt nhất cho trứng đã thụ tinh đến làm tổ và làm tổ an toàn. Do đó, chức năng chính là làm dày và hoàn thiện nội mạc tử cung (Đáp án C)."
+    "explanation": "- **Progesterone (C)** (hormone thai nghén) phối hợp với estrogen làm biến đổi nội mạc tử cung đã được kích thích trước đó:\n- Kích thích tuyến nội mạc phát triển dài ra, ngoằn ngoèo và tăng bài tiết dịch giàu chất dinh dưỡng (glycogen).\n- Tăng sinh các động mạch xoắn nuôi dưỡng lớp chức năng làm **nội mạc tử cung dày lên**, mềm xốp hơn.\n- Ức chế co bóp cơ tử cung để giữ tử cung yên tĩnh.\n- Mục đích chính là chuẩn bị điều kiện tốt nhất cho trứng đã thụ tinh đến làm tổ và làm tổ an toàn. Do đó, chức năng chính là làm dày và hoàn thiện nội mạc tử cung (Đáp án C)."
   },
   {
     "id": 291,
@@ -8001,6 +8001,6 @@ const QUESTIONS = [
       }
     ],
     "answer": "A",
-    "explanation": "- **Estrogen (Oestrogen) (A)** do các tế bào hạt của nang trứng buồng trứng tiết ra. \n- Estrogen là hormone chịu trách nhiệm phát triển cơ quan sinh dục nữ ở tuổi dậy thì và **phát triển, duy trì đặc tính sinh dục phụ thứ cấp** ở nữ giới (kích thích phát triển tuyến vú, phân bố mỡ tạo dáng người thon thả nữ tính ở mông, đùi, giọng nói trong, khung chậu rộng).\n- Progesterone (B) chủ yếu chuẩn bị cho sự mang thai và phát triển thùy tuyến vú."
+    "explanation": "- **Estrogen (Oestrogen) (A)** do các tế bào hạt của nang trứng buồng trứng tiết ra.\n- Estrogen là hormone chịu trách nhiệm phát triển cơ quan sinh dục nữ ở tuổi dậy thì và **phát triển, duy trì đặc tính sinh dục phụ thứ cấp** ở nữ giới (kích thích phát triển tuyến vú, phân bố mỡ tạo dáng người thon thả nữ tính ở mông, đùi, giọng nói trong, khung chậu rộng).\n- Progesterone (B) chủ yếu chuẩn bị cho sự mang thai và phát triển thùy tuyến vú."
   }
 ];
