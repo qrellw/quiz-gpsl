@@ -1231,8 +1231,8 @@ const QUESTIONS = [
         "text": "Là receptor"
       }
     ],
-    "answer": "D (Lưu ý: File gốc chọn A, nhưng D chuẩn xác hơn về sinh lý)",
-    "explanation": "- Carbohydrat màng (tạo thành lớp áo Glycocalyx) không vận chuyển đường (đó là việc của protein mang). Chức năng chính của nó là đóng vai trò như các receptor (D) tiếp nhận thông tin, nhận diện tế bào (dấu chuẩn miễn dịch) và giúp các tế bào bám dính vào nhau. (Nếu thi bắt buộc bám sát file gốc thì chọn A, nhưng bản chất sinh học là D)."
+    "answer": "D",
+    "explanation": "- Carbohydrat màng (tạo thành lớp áo Glycocalyx) không vận chuyển đường (đó là việc của protein mang). Chức năng chính của nó là đóng vai trò như các receptor (D) tiếp nhận thông tin, nhận diện tế bào (dấu chuẩn miễn dịch) và giúp các tế bào bám dính vào nhau."
   },
   {
     "id": 42,
@@ -1714,7 +1714,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "B",
-    "explanation": "- Mặc dù nước là phân tử phân cực nhưng kích thước cực kỳ nhỏ và động năng cao nên vẫn có một phần rất nhỏ có thể lọt qua lớp lipid kép. Tuy nhiên, phần lớn nước thấm qua màng cực nhanh là nhờ các **kênh Aquaporin** trên màng.\n- Phát biểu gốc ghi đáp án là B (Sai), vì phát biểu nói \"1 phần khuếch tán qua lớp lipid kép, phần còn lại qua kênh\" nhưng thực tế phần qua lipid kép là không đáng kể, kênh aquaporin mới là con đường chính chiếm đa số tuyệt đối giúp nước thấm nhanh."
+    "explanation": "- Mặc dù nước là phân tử phân cực nhưng kích thước cực kỳ nhỏ và động năng cao nên vẫn có một phần rất nhỏ có thể lọt qua lớp lipid kép. Tuy nhiên, phần lớn nước thấm qua màng cực nhanh là nhờ các **kênh Aquaporin** trên màng.\n- Phát biểu nói \"1 phần khuếch tán qua lớp lipid kép, phần còn lại qua kênh\" là sai, vì thực tế phần qua lipid kép là không đáng kể, kênh aquaporin mới là con đường chính chiếm đa số tuyệt đối giúp nước thấm nhanh."
   },
   {
     "id": 60,
