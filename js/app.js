@@ -100,8 +100,11 @@ const App = {
 
     // Stats
     document.getElementById('btn-reset-stats').addEventListener('click', () => this.resetStats());
-
-    // Bottom nav
+    document.getElementById('btn-export-data').addEventListener('click', () => this.exportData());
+    document.getElementById('btn-import-data').addEventListener('click', () => {
+      document.getElementById('import-file').click();
+    });
+    document.getElementById('import-file').addEventListener('change', (e) => this.importData(e));
     document.querySelectorAll('.bottom-nav-item').forEach(btn => {
       btn.addEventListener('click', () => {
         const screen = btn.dataset.screen;
@@ -718,6 +721,68 @@ const App = {
       this.renderHome();
       Utils.showToast('Đã xóa toàn bộ dữ liệu');
     }
+  },
+
+  // ---- Export Data ----
+  exportData() {
+    try {
+      const dataStr = JSON.stringify(this.storage, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `gpsl_quiz_backup_${new Date().toISOString().split('T')[0]}.json`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      
+      Utils.showToast('✅ Đã tải xuống file sao lưu!');
+    } catch (e) {
+      console.error('Export failed', e);
+      Utils.showToast('❌ Lỗi khi sao lưu dữ liệu!');
+    }
+  },
+
+  // ---- Import Data ----
+  importData(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = async (e) => {
+      try {
+        const content = e.target.result;
+        const parsed = JSON.parse(content);
+        
+        // Basic validation
+        if (!parsed || typeof parsed !== 'object' || !Array.isArray(parsed.bookmarks)) {
+          throw new Error('Invalid format');
+        }
+
+        const ok = await Utils.showModal(
+          'Phục hồi dữ liệu?',
+          'Hành động này sẽ ghi đè lên toàn bộ dữ liệu hiện tại của bạn. Bạn có chắc chắn?'
+        );
+
+        if (ok) {
+          this.storage = parsed;
+          Utils.saveStorage(this.storage);
+          this.applyTheme(this.storage.theme || 'dark');
+          this.renderStats();
+          this.renderHome();
+          Utils.showToast('✅ Phục hồi dữ liệu thành công!');
+        }
+      } catch (err) {
+        console.error('Import failed', err);
+        Utils.showToast('❌ File không hợp lệ hoặc bị lỗi!');
+      } finally {
+        // Reset file input so the same file can be selected again
+        event.target.value = '';
+      }
+    };
+    reader.readAsText(file);
   },
 
   // ---- Keyboard Shortcuts ----
