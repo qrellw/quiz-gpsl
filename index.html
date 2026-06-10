@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Website luyện thi trắc nghiệm Giải Phẫu - Sinh Lý Học Người. 292 câu hỏi, 22 chương, giải thích chi tiết.">
+    <title>Luyện Thi Giải Phẫu - Sinh Lý | GPSL Quiz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>">
+</head>
+<body>
+    <!-- ============ LOADING SCREEN ============ -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-content">
+            <div class="dna-helix">
+                <div class="helix-strand"></div>
+                <div class="helix-strand"></div>
+            </div>
+            <h2>Đang tải dữ liệu...</h2>
+        </div>
+    </div>
+
+    <!-- ============ APP CONTAINER ============ -->
+    <div id="app" class="app hidden">
+        
+        <!-- ===== TOP NAV ===== -->
+        <nav id="top-nav" class="top-nav">
+            <div class="nav-left" id="nav-back" style="display:none;">
+                <button class="btn-icon" id="btn-back" aria-label="Quay lại">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+                </button>
+            </div>
+            <div class="nav-center">
+                <span class="nav-title" id="nav-title">GPSL Quiz</span>
+            </div>
+            <div class="nav-right">
+                <button class="btn-icon" id="btn-theme" aria-label="Đổi giao diện">
+                    <svg id="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                    <svg id="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none;"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                </button>
+            </div>
+        </nav>
+
+        <!-- ===== SCREEN: HOME ===== -->
+        <main id="screen-home" class="screen screen-home">
+            <header class="hero">
+                <div class="hero-icon">🧬</div>
+                <h1>Luyện Thi<br><span class="gradient-text">Giải Phẫu - Sinh Lý</span></h1>
+                <p class="hero-subtitle">Ngân hàng <strong id="total-questions">292</strong> câu hỏi trắc nghiệm • <strong id="total-chapters">22</strong> chương</p>
+            </header>
+
+            <!-- Stats Overview -->
+            <div class="stats-overview" id="stats-overview">
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-completed">0</div>
+                    <div class="stat-label">Đã làm</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-correct-rate">0%</div>
+                    <div class="stat-label">Tỷ lệ đúng</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-bookmarked">0</div>
+                    <div class="stat-label">Đã đánh dấu</div>
+                </div>
+            </div>
+
+            <!-- Mode Selection -->
+            <div class="mode-selection">
+                <button class="mode-btn mode-practice" id="btn-mode-practice">
+                    <div class="mode-icon">🎯</div>
+                    <div class="mode-info">
+                        <h3>Luyện tập</h3>
+                        <p>Xem đáp án & giải thích ngay</p>
+                    </div>
+                </button>
+                <button class="mode-btn mode-exam" id="btn-mode-exam">
+                    <div class="mode-icon">⏱️</div>
+                    <div class="mode-info">
+                        <h3>Thi thử</h3>
+                        <p>Giới hạn thời gian, nộp bài cuối</p>
+                    </div>
+                </button>
+                <button class="mode-btn mode-bookmark" id="btn-mode-bookmark">
+                    <div class="mode-icon">⭐</div>
+                    <div class="mode-info">
+                        <h3>Ôn câu đánh dấu</h3>
+                        <p>Ôn lại các câu đã đánh dấu</p>
+                    </div>
+                </button>
+                <button class="mode-btn mode-wrong" id="btn-mode-wrong">
+                    <div class="mode-icon">❌</div>
+                    <div class="mode-info">
+                        <h3>Ôn câu đã sai</h3>
+                        <p>Luyện lại các câu từng trả lời sai</p>
+                    </div>
+                </button>
+            </div>
+
+            <!-- Chapter Grid -->
+            <section class="chapter-section">
+                <h2 class="section-title">Chọn chương</h2>
+                <div class="chapter-grid" id="chapter-grid">
+                    <!-- Generated by JS -->
+                </div>
+            </section>
+        </main>
+
+        <!-- ===== SCREEN: CHAPTER SELECT (for exam mode) ===== -->
+        <main id="screen-setup" class="screen screen-setup hidden">
+            <div class="setup-container glass-card">
+                <h2>⚙️ Thiết lập bài thi</h2>
+                
+                <div class="setup-group">
+                    <label>Chương</label>
+                    <select id="setup-chapter" class="setup-select">
+                        <option value="all">Tất cả chương</option>
+                    </select>
+                </div>
+
+                <div class="setup-group">
+                    <label>Số câu hỏi</label>
+                    <div class="setup-chips" id="setup-count">
+                        <button class="chip active" data-value="10">10</button>
+                        <button class="chip" data-value="20">20</button>
+                        <button class="chip" data-value="30">30</button>
+                        <button class="chip" data-value="50">50</button>
+                        <button class="chip" data-value="all">Tất cả</button>
+                    </div>
+                </div>
+
+                <div class="setup-group">
+                    <label>Thời gian mỗi câu</label>
+                    <div class="setup-chips" id="setup-time">
+                        <button class="chip" data-value="30">30s</button>
+                        <button class="chip active" data-value="60">1 phút</button>
+                        <button class="chip" data-value="90">1.5 phút</button>
+                        <button class="chip" data-value="120">2 phút</button>
+                        <button class="chip" data-value="0">Không giới hạn</button>
+                    </div>
+                </div>
+
+
+
+
+                <button class="btn-primary btn-start-exam" id="btn-start-exam">
+                    🚀 Bắt đầu thi
+                </button>
+            </div>
+        </main>
+
+        <!-- ===== SCREEN: QUIZ ===== -->
+        <main id="screen-quiz" class="screen screen-quiz hidden">
+            <!-- Progress Bar -->
+            <div class="quiz-progress">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="progress-info">
+                    <span id="progress-text">Câu 1/10</span>
+                    <span id="timer-display" class="timer-display" style="display:none;">⏱ 01:00</span>
+                </div>
+            </div>
+
+            <!-- Question Card -->
+            <div class="question-card glass-card" id="question-card">
+                <div class="question-header">
+                    <span class="question-chapter" id="question-chapter"></span>
+                    <button class="btn-bookmark" id="btn-bookmark" aria-label="Đánh dấu câu hỏi">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+                    </button>
+                </div>
+                <h2 class="question-text" id="question-text"></h2>
+                <div class="options-list" id="options-list">
+                    <!-- Generated by JS -->
+                </div>
+            </div>
+
+            <!-- Explanation Panel -->
+            <div class="explanation-panel hidden" id="explanation-panel">
+                <div class="explanation-card glass-card">
+                    <div class="explanation-header" id="explanation-header">
+                        <!-- ✅ Đúng rồi! / ❌ Sai rồi! -->
+                    </div>
+                    <div class="explanation-body" id="explanation-body">
+                        <!-- Rendered explanation -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quiz Navigation -->
+            <div class="quiz-nav">
+                <button class="btn-secondary" id="btn-prev" disabled>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+                    Câu trước
+                </button>
+                <button class="btn-primary" id="btn-next">
+                    Câu tiếp
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </button>
+            </div>
+
+            <!-- Exam Submit -->
+            <div class="exam-submit hidden" id="exam-submit">
+                <button class="btn-primary btn-submit" id="btn-submit-exam">
+                    📝 Nộp bài
+                </button>
+            </div>
+        </main>
+
+        <!-- ===== SCREEN: RESULT ===== -->
+        <main id="screen-result" class="screen screen-result hidden">
+            <div class="result-container">
+                <div class="result-score glass-card">
+                    <div class="score-ring" id="score-ring">
+                        <svg viewBox="0 0 120 120">
+                            <circle class="score-bg" cx="60" cy="60" r="52"/>
+                            <circle class="score-fill" id="score-circle" cx="60" cy="60" r="52"/>
+                        </svg>
+                        <div class="score-text">
+                            <span class="score-value" id="score-value">0</span>
+                            <span class="score-total" id="score-total">/10</span>
+                        </div>
+                    </div>
+                    <h2 class="result-title" id="result-title">Kết quả</h2>
+                    <p class="result-subtitle" id="result-subtitle"></p>
+                </div>
+
+                <div class="result-stats">
+                    <div class="result-stat correct">
+                        <span class="result-stat-value" id="result-correct">0</span>
+                        <span class="result-stat-label">Đúng</span>
+                    </div>
+                    <div class="result-stat wrong">
+                        <span class="result-stat-value" id="result-wrong">0</span>
+                        <span class="result-stat-label">Sai</span>
+                    </div>
+                    <div class="result-stat skipped">
+                        <span class="result-stat-value" id="result-skipped">0</span>
+                        <span class="result-stat-label">Bỏ qua</span>
+                    </div>
+                </div>
+
+                <div class="result-review" id="result-review">
+                    <h3>Xem lại các câu đã sai</h3>
+                    <div class="review-list" id="review-list">
+                        <!-- Generated by JS -->
+                    </div>
+                </div>
+
+                <div class="result-actions">
+                    <button class="btn-primary" id="btn-retry">🔄 Làm lại</button>
+                    <button class="btn-secondary" id="btn-home">🏠 Trang chủ</button>
+                </div>
+            </div>
+        </main>
+
+        <!-- ===== SCREEN: STATS ===== -->
+        <main id="screen-stats" class="screen screen-stats hidden">
+            <div class="stats-container">
+                <h2 class="section-title">📊 Thống kê học tập</h2>
+                
+                <div class="stats-summary glass-card">
+                    <div class="stats-row">
+                        <span>Tổng câu đã làm</span>
+                        <strong id="stats-total-done">0</strong>
+                    </div>
+                    <div class="stats-row">
+                        <span>Tỷ lệ đúng trung bình</span>
+                        <strong id="stats-avg-rate">0%</strong>
+                    </div>
+                    <div class="stats-row">
+                        <span>Câu đã đánh dấu</span>
+                        <strong id="stats-bookmarks">0</strong>
+                    </div>
+                </div>
+
+                <h3 class="section-subtitle">Phân tích theo chương</h3>
+                <div class="chapter-stats" id="chapter-stats">
+                    <!-- Generated by JS -->
+                </div>
+
+                <div class="stats-actions">
+                    <button class="btn-secondary btn-danger" id="btn-reset-stats">🗑️ Xóa toàn bộ dữ liệu</button>
+                </div>
+            </div>
+        </main>
+
+        <!-- ===== BOTTOM NAV (mobile) ===== -->
+        <nav class="bottom-nav" id="bottom-nav">
+            <button class="bottom-nav-item active" data-screen="home" id="bnav-home">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                <span>Trang chủ</span>
+            </button>
+            <button class="bottom-nav-item" data-screen="stats" id="bnav-stats">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                <span>Thống kê</span>
+            </button>
+        </nav>
+    </div>
+
+    <!-- ===== CONFIRM MODAL ===== -->
+    <div class="modal-overlay hidden" id="modal-overlay">
+        <div class="modal glass-card" id="modal">
+            <h3 id="modal-title">Xác nhận</h3>
+            <p id="modal-message">Bạn có chắc chắn?</p>
+            <div class="modal-actions">
+                <button class="btn-secondary" id="modal-cancel">Hủy</button>
+                <button class="btn-primary" id="modal-confirm">Xác nhận</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== TOAST ===== -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <script src="js/data.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
