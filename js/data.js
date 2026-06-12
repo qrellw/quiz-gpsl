@@ -3542,8 +3542,8 @@ const QUESTIONS = [
         "text": "Cung cấp năng lượng, vận chuyển năng lượng và dự trữ năng lượng"
       }
     ],
-    "answer": "Đáp án đúng",
-    "explanation": "- A.\n**Giải thích chi tiết:**\n- **ATP (Adenosine Triphosphate)** được mệnh danh là \"đồng tiền năng lượng\" của tế bào. Nó trực tiếp liên kết các quá trình giải phóng năng lượng (dị hóa) với các quá trình tiêu thụ năng lượng (đồng hóa và hoạt động chức năng).\n- ATP giải phóng năng lượng rất nhanh khi thủy phân liên kết phosphate cao năng cuối cùng tạo ra ADP và gốc phosphate tự do.\n- Cơ thể không tích trữ một lượng lớn ATP (Creatine Phosphate và Glycogen mới là dạng dự trữ năng lượng lớn ở cơ), mà ATP được tái tổng hợp liên tục ngay khi tiêu thụ. Do đó, vai trò trực tiếp nhất của nó là cung cấp năng lượng cho cơ thể hoạt động sinh lý (Đáp án A)."
+    "answer": "E",
+    "explanation": "- **ATP (Adenosine Triphosphate)** được mệnh danh là \"đồng tiền năng lượng\" của tế bào và đóng nhiều vai trò quan trọng:\n- **Cung cấp năng lượng:** Quá trình thủy phân liên kết phosphate cao năng của ATP giải phóng năng lượng cần thiết cho mọi hoạt động sống (co cơ, vận chuyển chủ động, tổng hợp chất).\n- **Vận chuyển năng lượng:** Năng lượng sinh ra từ quá trình hô hấp tế bào ở ty thể được đóng gói vào ATP, sau đó ATP khuếch tán đến các vị trí khác nhau trong tế bào để vận chuyển năng lượng đến nơi tiêu thụ.\n- **Dự trữ năng lượng:** Năng lượng được tích lũy và lưu trữ ngắn hạn dưới dạng các liên kết hóa học trong phân tử ATP trước khi được sử dụng.\n- Do đó, ATP vừa cung cấp, vừa vận chuyển và dự trữ năng lượng (Đáp án E)."
   },
   {
     "id": 127,
