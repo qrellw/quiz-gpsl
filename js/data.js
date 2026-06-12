@@ -5252,8 +5252,8 @@ const QUESTIONS = [
         "text": "Tăng nồng độ kali trong máu"
       }
     ],
-    "answer": "Đáp án đúng",
-    "explanation": "- C, đồng thời làm tăng nồng độ Na+ và làm giảm nồng độ K+ trong máu).\n**Giải thích chi tiết:**\n- Mineralocorticoid (chủ yếu là **Aldosterone**) hoạt động tại ống thận kích hoạt tái hấp thu tích cực Na+ và bài tiết K+. Nước được tái hấp thu thụ động kéo theo Na+.\n- Việc tăng tái hấp thu nước từ lòng ống thận về máu giúp cô đặc nước tiểu (C), duy trì thể tích tuần hoàn và huyết áp cơ thể."
+    "answer": "C",
+    "explanation": "- Mineralocorticoid (chủ yếu là **Aldosterone**) hoạt động tại ống thận kích hoạt tái hấp thu tích cực Na+ và bài tiết K+. Nước được tái hấp thu thụ động kéo theo Na+.\n- Việc tăng tái hấp thu nước từ lòng ống thận về máu giúp cô đặc nước tiểu (C), duy trì thể tích tuần hoàn và huyết áp cơ thể. (Đồng thời làm tăng nồng độ Na+ và làm giảm nồng độ K+ trong máu)."
   },
   {
     "id": 189,
