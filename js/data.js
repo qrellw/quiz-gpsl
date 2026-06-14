@@ -5938,8 +5938,8 @@ const QUESTIONS = [
         "text": "Gắn với Cl-"
       }
     ],
-    "answer": "C (Lưu ý: Nếu có phương án \"Ion Bicarbonate HCO3-\" thì đó mới là đáp án đúng nhất chiếm 70%).",
-    "explanation": "- Trong các phương án của câu hỏi này, dạng gắn với nhóm -NH2 của globin (C) (tạo thành carbaminohemoglobin) là dạng vận chuyển CO2 chiếm tỷ lệ cao nhất (khoảng 20-23%), cao hơn dạng hòa tan trong huyết tương (7%)."
+    "answer": "C",
+    "explanation": "- Trong các phương án của câu hỏi này, dạng gắn với nhóm -NH2 của globin (C) (tạo thành carbaminohemoglobin) là dạng vận chuyển CO2 chiếm tỷ lệ cao nhất (khoảng 20-23%), cao hơn dạng hòa tan trong huyết tương (7%). Lưu ý: Nếu có phương án \"Ion Bicarbonate HCO3-\" thì đó mới là đáp án đúng nhất chiếm 70%."
   },
   {
     "id": 215,
