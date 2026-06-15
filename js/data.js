@@ -5931,7 +5931,7 @@ const QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Gắn với nhóm -NH2 của globin"
+        "text": "Dưới dạng ion Bicarbonate (HCO3-)"
       },
       {
         "key": "D",
@@ -5939,7 +5939,7 @@ const QUESTIONS = [
       }
     ],
     "answer": "C",
-    "explanation": "- Trong các phương án của câu hỏi này, dạng gắn với nhóm -NH2 của globin (C) (tạo thành carbaminohemoglobin) là dạng vận chuyển CO2 chiếm tỷ lệ cao nhất (khoảng 20-23%), cao hơn dạng hòa tan trong huyết tương (7%). Lưu ý: Nếu có phương án \"Ion Bicarbonate HCO3-\" thì đó mới là đáp án đúng nhất chiếm 70%."
+    "explanation": "- Dưới dạng ion Bicarbonate (HCO3-) là dạng vận chuyển CO2 chiếm tỷ lệ cao nhất (khoảng 70%).\n- Các dạng khác: gắn với nhóm -NH2 của globin tạo thành carbaminohemoglobin (20-23%), hòa tan trong huyết tương (7%)."
   },
   {
     "id": 215,
